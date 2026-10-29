@@ -1,0 +1,43 @@
+name: Suggest a tool / 推荐工具
+description: Suggest an AI office or productivity tool / 推荐 AI 办公或效率工具
+title: "[Tool] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Product name / 产品名称
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official URL / 官网链接
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category / 建议分类
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description, workplace use and official source / 简介、办公用途及官方来源
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Affiliation / 与产品的关系
+      description: Tell us if you work for or are otherwise affiliated with the product. Self-submissions are welcome. / 如与产品有关联请说明，欢迎自荐。
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist / 检查
+      options:
+        - label: I checked the directory and existing issues for duplicates. / 我已检查导航和现有 Issue，避免重复。
+          required: true
