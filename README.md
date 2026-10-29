@@ -81,6 +81,16 @@
 | [Pipali](https://pipali.ai/) | **场景：**资料调研和周期性办公；**功能：**桌面助手可处理文件及浏览器任务、连接工具和执行定时任务；目前处于测试阶段。 |
 | [Nexus](https://github.com/nexus-research-lab/nexus) | **场景：**团队和研究任务协作；**功能：**按房间组织多个智能体，可配置办公技能和外部连接器。 |
 | [LaborAny](https://github.com/laborany/laborany) | **场景：**文档、调研和数据任务；**功能：**桌面工作台提供技能、定时任务及飞书、QQ 连接。 |
+| [星辰超级智能体 · TeleAgent](https://www.teleai.com.cn/product/teleagent) | **场景：**整理办公文件与工作汇报；**功能：**桌面助手可整理文件夹、提取文档和表格信息、生成纲要。 |
+| [Dume Cowork](https://www.dume.ai/cowork) | **场景：**文件整理和跨网站办公任务；**功能：**桌面助手结合浏览器与内置文档、表格、演示及 PDF 工具。 |
+| [Adamant](https://adamantcore.ai/) | **场景：**网页调研、报告与数据处理；**功能：**桌面智能体可处理文件和 PDF、生成文档和表格，并支持网页调研。 |
+| [OpenWork](https://openworklabs.com/) | **场景：**使用文件及工作工具推进任务；**功能：**桌面工作区支持模型选择、技能、工具连接及自动化；功能因版本和配置而异。 |
+| [AnythingLLM](https://anythingllm.com/) | **场景：**项目资料问答和工作研究；**功能：**工作区支持文档知识库、模型选择、智能体技能及后台任务。 |
+| [Abacus AI Desktop](https://abacus.ai/teams/desktop) | **场景：**文档、表格与会议工作；**功能：**桌面工作台可生成文档、表格与演示，并提供浏览和会议助手。 |
+| [纳米 Work](https://work.n.cn/) | **场景：**企业方案策划和办公资料处理；**功能：**通过多智能体协作处理数据分析、文档和流程任务。 |
+| [ASI:Work](https://asi1.ai/work) | **场景：**整理文件及制作周期性报告；**功能：**在选定文件夹中处理文件，并支持定时任务。 |
+| [Abu 阿布](https://github.com/PM-Shawn/Abu-Cowork) | **场景：**办公文件和网页任务；**功能：**桌面工作台支持文件处理、浏览器操作和定时任务，需配置模型。 |
+| [Kun](https://github.com/KunAgent/Kun) | **场景：**写作、调研与工作任务；**功能：**桌面工作空间支持智能体、工具连接及自动化；项目采用非商业许可，商业使用需单独书面授权。 |
 
 ## 写作、文档与演示
 

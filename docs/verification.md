@@ -117,3 +117,24 @@ An unauthenticated HTTP check returned 200 for all eight new directory links. Th
 - [Pipali](https://github.com/khoj-ai/pipali) — beta / 测试阶段。
 - [Nexus](https://github.com/nexus-research-lab/nexus) · [中文说明](https://github.com/nexus-research-lab/nexus/blob/main/README_zh.md).
 - [LaborAny](https://github.com/laborany/laborany) · [project site / 项目主页](https://laborany.github.io/).
+
+## Workbench additions / 办公工作台补充 · 2026-10-29
+
+The following entries are based on public official product or project information, not independent tests or privacy assurances. Capabilities and availability may vary by plan, region, or configuration.
+
+以下条目依据公开的官方产品或项目资料整理，不代表独立实测或隐私保证。功能和可用性可能因方案、地区或配置而异。
+
+The ten new directory links returned HTTP 200 in an unauthenticated check; this does not verify feature access or product behavior.
+
+十个新增目录链接经未登录 HTTP 检查均返回 200；这不代表已验证功能访问权限或产品实际表现。
+
+- [TeleAgent / 星辰超级智能体](https://www.teleai.com.cn/product/teleagent).
+- [Dume Cowork](https://www.dume.ai/cowork).
+- [Adamant](https://adamantcore.ai/).
+- [OpenWork](https://openworklabs.com/) · [source / 源码](https://github.com/different-ai/openwork/).
+- [AnythingLLM](https://anythingllm.com/) · [documentation / 文档](https://docs.anythingllm.com/).
+- [Abacus AI Desktop](https://abacus.ai/teams/desktop).
+- [Nano Work / 纳米 Work](https://work.n.cn/) · [360 product information / 官方产品资讯](https://weishi.360.cn/n/13047.html).
+- [ASI:Work](https://asi1.ai/work).
+- [Abu / 阿布](https://github.com/PM-Shawn/Abu-Cowork) · [project site / 项目主页](https://abuwork.com/).
+- [Kun](https://github.com/KunAgent/Kun) — review license terms / 使用前核对许可条款。

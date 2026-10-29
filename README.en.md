@@ -81,6 +81,16 @@ For data handling, permissions and recording considerations, see the [privacy an
 | [Pipali](https://pipali.ai/) | **Use:** research and recurring office work; **Features:** a desktop assistant for file and browser tasks, tool connections, and scheduled tasks; currently in beta. |
 | [Nexus](https://github.com/nexus-research-lab/nexus) | **Use:** team and research collaboration; **Features:** organize multiple agents in rooms and configure office skills and external connectors. |
 | [LaborAny](https://github.com/laborany/laborany) | **Use:** document, research, and data tasks; **Features:** a desktop workspace with skills, scheduled tasks, and Feishu and QQ connections. |
+| [TeleAgent (星辰超级智能体)](https://www.teleai.com.cn/product/teleagent) | **Use:** organizing office files and work reports; **Features:** a desktop assistant for organizing folders, extracting document and spreadsheet information, and creating outlines. |
+| [Dume Cowork](https://www.dume.ai/cowork) | **Use:** file organization and work across websites; **Features:** a desktop assistant combining a browser with built-in document, spreadsheet, presentation, and PDF tools. |
+| [Adamant](https://adamantcore.ai/) | **Use:** web research, reports, and data work; **Features:** a desktop agent for files and PDFs, document and spreadsheet creation, and web research. |
+| [OpenWork](https://openworklabs.com/) | **Use:** tasks involving files and workplace tools; **Features:** a desktop workspace with model selection, skills, tool connections, and automation; features vary by version and configuration. |
+| [AnythingLLM](https://anythingllm.com/) | **Use:** questions about project material and work research; **Features:** workspaces support document knowledge bases, model selection, agent skills, and background jobs. |
+| [Abacus AI Desktop](https://abacus.ai/teams/desktop) | **Use:** documents, spreadsheets, and meetings; **Features:** a desktop workspace for creating documents, spreadsheets, and presentations, with browsing and meeting assistance. |
+| [Nano Work (纳米 Work)](https://work.n.cn/) | **Use:** business planning and office materials; **Features:** multi-agent collaboration for data analysis, documents, and process tasks. |
+| [ASI:Work](https://asi1.ai/work) | **Use:** organizing files and recurring reports; **Features:** works with files in a selected folder and supports scheduled tasks. |
+| [Abu (阿布)](https://github.com/PM-Shawn/Abu-Cowork) | **Use:** office files and web tasks; **Features:** a desktop workspace for file handling, browser operations, and scheduled tasks; model configuration is required. |
+| [Kun](https://github.com/KunAgent/Kun) | **Use:** writing, research, and work tasks; **Features:** a desktop workspace with agents, tool connections, and automation; the project uses a noncommercial license; commercial use requires separate written permission. |
 
 ## Writing, documents and presentations
 
