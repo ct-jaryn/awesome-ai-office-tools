@@ -2,6 +2,12 @@ name: Suggest a tool / 推荐工具
 description: Suggest an AI office or productivity tool / 推荐 AI 办公或效率工具
 title: "[Tool] "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are public. Do not include credentials, personal information, private customer material, sensitive logs, or account-specific or tracking links. Use fictional or anonymized examples.
+
+        Issue 是公开的。请勿包含凭据、个人信息、客户机密材料、敏感日志、账号专属链接或跟踪链接；请使用虚构或匿名化示例。
   - type: input
     id: name
     attributes:
@@ -11,7 +17,7 @@ body:
   - type: input
     id: url
     attributes:
-      label: Official URL / 官网链接
+      label: Public official URL / 公开官网链接
       placeholder: https://
     validations:
       required: true
@@ -24,7 +30,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Description, workplace use and official source / 简介、办公用途及官方来源
+      label: Description, workplace use and public official source / 简介、办公用途及公开官方来源
     validations:
       required: true
   - type: textarea

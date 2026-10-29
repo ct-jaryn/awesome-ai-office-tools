@@ -2,10 +2,16 @@ name: Report a correction / 反馈修正
 description: Report an outdated entry or broken link / 反馈过时内容或失效链接
 title: "[Correction] "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are public. Do not include credentials, personal information, private customer material, sensitive logs, or account-specific or tracking links. Use fictional or anonymized examples.
+
+        Issue 是公开的。请勿包含凭据、个人信息、客户机密材料、敏感日志、账号专属链接或跟踪链接；请使用虚构或匿名化示例。
   - type: textarea
     id: problem
     attributes:
       label: What needs correcting? / 需要修正什么？
-      description: Include the entry and a reliable source if available. / 请注明条目，尽可能提供可靠来源。
+      description: Include the entry and a public official source if available. / 请注明条目，尽可能提供公开官方来源。
     validations:
       required: true
