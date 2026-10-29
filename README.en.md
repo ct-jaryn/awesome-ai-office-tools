@@ -73,6 +73,14 @@ For data handling, permissions and recording considerations, see the [privacy an
 | [Relevance AI](https://relevanceai.com/) | **Use:** coordinating multi-step business workflows; **Features:** build and connect agents, knowledge sources, and tools for tasks such as reporting and customer support. |
 | [Asana AI Teammates](https://asana.com/product/ai/ai-teammates) | **Use:** team project coordination and request triage; **Features:** assign tasks to agents within Asana and connect supported apps; access depends on plan, permissions, and configuration. |
 | [ClickUp Super Agents](https://clickup.com/brain/agents) | **Use:** managing team tasks, reports, and scheduling; **Features:** assign and trigger agents within ClickUp; availability depends on plan and role, and AI must be enabled. |
+| [QwenWork (千问办公)](https://qwenwork.cn/) | **Use:** office files and presentations; **Features:** combines Office tools, browser automation, and scheduled tasks; capabilities depend on edition and configuration. |
+| [Coze (扣子)](https://www.coze.cn/) | **Use:** team office work, organizing material, and multi-step projects; **Features:** coordinate multiple agents, manage projects and files, and work with local files through the desktop app. |
+| [AionUi](https://github.com/iOfficeAI/AionUi/) | **Use:** file organization and recurring tasks; **Features:** a desktop workspace that connects multiple agents and supports file operations and scheduling; capabilities depend on configuration. |
+| [Eigent](https://www.eigent.ai/) | **Use:** research and dividing team tasks; **Features:** a desktop workspace with configurable models, tool connections, and multi-agent collaboration. |
+| [CoWork OS](https://coworkosapp.com/) | **Use:** documents, spreadsheets, and recurring office tasks; **Features:** a desktop workspace for choosing models, working with files and connected tools, and configuring automations. |
+| [Pipali](https://pipali.ai/) | **Use:** research and recurring office work; **Features:** a desktop assistant for file and browser tasks, tool connections, and scheduled tasks; currently in beta. |
+| [Nexus](https://github.com/nexus-research-lab/nexus) | **Use:** team and research collaboration; **Features:** organize multiple agents in rooms and configure office skills and external connectors. |
+| [LaborAny](https://github.com/laborany/laborany) | **Use:** document, research, and data tasks; **Features:** a desktop workspace with skills, scheduled tasks, and Feishu and QQ connections. |
 
 ## Writing, documents and presentations
 

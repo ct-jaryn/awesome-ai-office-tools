@@ -98,3 +98,22 @@ Additional context / 补充资料： [TRAE migration / 升级说明](https://doc
 - Make: [official source 1](https://help.make.com/whats-a-scenario-and-which-type-should-you-use).
 - n8n: [official source 1](https://docs.n8n.io/).
 - Dify: [official source 1](https://docs.dify.ai/en/home).
+
+## Further workbench additions / 工作台补充 · 2026-10-29
+
+The eight additions below were checked against public provider or project documentation. These sources describe product capabilities, not independent testing, security assessments, or guarantees; features can depend on configuration or plan.
+
+以下八个新增条目依据厂商或项目方的公开资料核对，不代表独立实测、安全审计或任何保证；功能可能因配置或方案而异。
+
+An unauthenticated HTTP check returned 200 for all eight new directory links. This does not verify user access or product behavior.
+
+八个新增目录链接经未登录 HTTP 检查均返回 200；这不代表已验证用户访问权限或产品实际表现。
+
+- [QwenWork / 千问办公](https://help.aliyun.com/zh/qwenwork/) · [product introduction / 产品介绍](https://qwenwork.cn/docs/product-introduction).
+- [Coze / 扣子](https://docs.coze.cn/) · [desktop guide / 桌面端指南](https://docs.coze.cn/quick-start-coze-desktop).
+- [AionUi](https://github.com/iOfficeAI/AionUi/) · [中文说明](https://github.com/iOfficeAI/AionUi/blob/main/docs/readme/readme_ch.md).
+- [Eigent](https://www.eigent.ai/) · [source / 源码](https://github.com/eigent-ai/eigent).
+- [CoWork OS](https://coworkosapp.com/) · [getting started / 入门](https://github.com/CoWork-OS/CoWork-OS/blob/main/docs/getting-started.md).
+- [Pipali](https://github.com/khoj-ai/pipali) — beta / 测试阶段。
+- [Nexus](https://github.com/nexus-research-lab/nexus) · [中文说明](https://github.com/nexus-research-lab/nexus/blob/main/README_zh.md).
+- [LaborAny](https://github.com/laborany/laborany) · [project site / 项目主页](https://laborany.github.io/).

@@ -73,6 +73,14 @@
 | [Relevance AI](https://relevanceai.com/) | **场景：**协调多步骤业务流程；**功能：**构建并连接智能体、知识来源与工具，处理报告、客户支持等任务。 |
 | [Asana AI Teammates](https://asana.com/product/ai/ai-teammates) | **场景：**团队项目协调和请求分派；**功能：**在 Asana 内向智能体分配任务并连接受支持的应用；访问取决于方案、权限和配置。 |
 | [ClickUp Super Agents](https://clickup.com/brain/agents) | **场景：**管理团队任务、报告和日程；**功能：**在 ClickUp 内分配和触发智能体；可用性取决于方案及角色，需启用 AI。 |
+| [千问办公 · QwenWork](https://qwenwork.cn/) | **场景：**办公文件处理和汇报制作；**功能：**结合 Office 工具、浏览器自动化和定时任务，具体能力取决于版本与配置。 |
+| [扣子 · Coze](https://www.coze.cn/) | **场景：**团队办公、资料整理和多步骤项目；**功能：**协作多个智能体，管理项目与文件，并可通过桌面端处理本地文件。 |
+| [AionUi](https://github.com/iOfficeAI/AionUi/) | **场景：**文件整理和周期性任务；**功能：**桌面工作台可接入多个智能体，支持文件操作与定时任务；能力取决于配置。 |
+| [Eigent](https://www.eigent.ai/) | **场景：**调研和团队任务分工；**功能：**桌面工作台支持配置模型、连接工具并协作多个智能体。 |
+| [CoWork OS](https://coworkosapp.com/) | **场景：**文档、表格与重复办公任务；**功能：**桌面工作台可选择模型、使用文件和连接工具，并配置自动化。 |
+| [Pipali](https://pipali.ai/) | **场景：**资料调研和周期性办公；**功能：**桌面助手可处理文件及浏览器任务、连接工具和执行定时任务；目前处于测试阶段。 |
+| [Nexus](https://github.com/nexus-research-lab/nexus) | **场景：**团队和研究任务协作；**功能：**按房间组织多个智能体，可配置办公技能和外部连接器。 |
+| [LaborAny](https://github.com/laborany/laborany) | **场景：**文档、调研和数据任务；**功能：**桌面工作台提供技能、定时任务及飞书、QQ 连接。 |
 
 ## 写作、文档与演示
 
