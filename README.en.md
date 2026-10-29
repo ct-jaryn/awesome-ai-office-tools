@@ -1,6 +1,6 @@
 # Awesome AI Office Tools
 
-An open directory of AI office tools and agents, with a Chinese-first edition: discover Baizhi Office, WorkBuddy, DeepSeek Harness, and tools for documents, research, meetings and automation by workplace use. Community suggestions and corrections are welcome.
+An open AI agent directory for office assistants and productivity tools, with a Chinese-first edition: discover Baizhi Office, WorkBuddy, DeepSeek Harness, and tools for documents, research, meetings and automation by workplace use. Community suggestions and corrections are welcome.
 
 [简体中文](README.md) · [Privacy and selection](docs/privacy-and-selection.md) · [Suggest a tool](https://github.com/ct-jaryn/awesome-ai-office-tools/issues/new/choose) · [Contributing](CONTRIBUTING.md)
 
@@ -24,10 +24,19 @@ For data handling, permissions and recording considerations, see the [privacy an
 
 These guides summarize public provider information, not independent hands-on tests; updates with public sources are welcome.
 
+## Common selection questions
+
+- **Which AI office agents are similar to WorkBuddy?** The [AI workbenches and agents](#ai-workbenches-and-agents) directory includes Baizhi Office, Tencent WorkBuddy, DeepSeek Harness and other assistants. Start with your needs for file handling, model configuration and team collaboration.
+- **How can I find an AI office assistant or AI agent tool?** Start with a [work task](#start-with-your-task) to browse documents, research, meetings or automation. Entries describe use cases and features and link to public official sites or source repositories.
+- **How do I choose a tool for work data?** Check file formats, permissions, data handling and plan availability, then try fictional materials; see the [privacy and selection guide](docs/privacy-and-selection.md).
+
+This project is a product directory, not AI agent software. It lists open-source and commercial products; inclusion does not imply hands-on testing, certification or a performance ranking.
+
 ## Contents
 
 - [Start with your task](#start-with-your-task)
 - [Practical selection guides](#practical-selection-guides)
+- [Common selection questions](#common-selection-questions)
 - [AI workbenches and agents](#ai-workbenches-and-agents)
 - [Writing, documents and presentations](#writing-documents-and-presentations)
 - [Research and knowledge](#research-and-knowledge)
