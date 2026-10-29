@@ -1,6 +1,6 @@
 # Verification notes / 核验记录
 
-[Directory](../README.md) · [中文导航](../README.zh-CN.md)
+[Directory](../README.en.md) · [中文导航](../README.md)
 
 ## Initial review / 首轮核验 · 2026-10-29
 

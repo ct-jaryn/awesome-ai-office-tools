@@ -186,9 +186,9 @@ def check_local_links(root, errors):
 def check_root(root):
     root = Path(root)
     errors = []
-    files = (root / "README.md", root / "README.zh-CN.md")
+    files = (root / "README.en.md", root / "README.md")
     if not all(path.is_file() for path in files):
-        return ["Both README.md and README.zh-CN.md are required"]
+        return ["Both README.md (Chinese) and README.en.md (English) are required"]
     en = product_sections(files[0], [pair[0] for pair in CATEGORY_HEADINGS], errors)
     zh = product_sections(files[1], [pair[1] for pair in CATEGORY_HEADINGS], errors)
     for index, (english, chinese) in enumerate(zip(en, zh)):

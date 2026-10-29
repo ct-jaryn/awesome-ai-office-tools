@@ -1,6 +1,6 @@
 # Choosing an AI office tool: privacy and practical checks
 
-[简体中文](#选择-ai-办公工具隐私与实用检查) · [Back to the directory](../README.md)
+[简体中文](#选择-ai-办公工具隐私与实用检查) · [Back to the directory](../README.en.md)
 
 This is a checklist for comparing products, not a certification or a claim that any listed product meets these requirements. Check the current terms, settings, documentation and your organization's rules for the exact product, plan, region and configuration you intend to use.
 
@@ -29,7 +29,7 @@ For example, to compare meeting tools, use a fictional transcript and ask each c
 
 # 选择 AI 办公工具：隐私与实用检查
 
-[English](#choosing-an-ai-office-tool-privacy-and-practical-checks) · [返回中文导航](../README.zh-CN.md)
+[English](#choosing-an-ai-office-tool-privacy-and-practical-checks) · [返回中文导航](../README.md)
 
 这是一份选型检查清单，不代表任何收录产品已通过认证或满足这些要求。请针对实际使用的产品、版本、地区和配置，核对最新条款、设置、文档与所在组织的规定。
 

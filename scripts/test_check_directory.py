@@ -32,8 +32,8 @@ class DirectoryChecks(unittest.TestCase):
         return text
 
     def write_readmes(self):
-        (self.root / "README.md").write_text(self.en, encoding="utf-8")
-        (self.root / "README.zh-CN.md").write_text(self.zh, encoding="utf-8")
+        (self.root / "README.en.md").write_text(self.en, encoding="utf-8")
+        (self.root / "README.md").write_text(self.zh, encoding="utf-8")
         (self.root / "guide.md").write_text("# 标题与 中文\n\n## Same\n## Same\n\n```\n# Hidden\n```\n", encoding="utf-8")
 
     def errors(self):
@@ -131,6 +131,10 @@ class DirectoryChecks(unittest.TestCase):
     def test_missing_readme(self):
         (self.root / "README.md").unlink()
         self.assertIn("Both README.md", check.check_root(self.root)[0])
+
+    def test_default_and_english_readmes_have_correct_languages(self):
+        self.en, self.zh = self.zh, self.en
+        self.assertIn("categories missing", self.errors())
 
 
 if __name__ == "__main__":

@@ -38,7 +38,7 @@ Do not submit private dashboards, account-specific links, or material that requi
 ## Pull requests / 提交 PR
 
 - Search both READMEs and existing issues to avoid duplicates. 检查双语页面及现有 Issue，避免重复。
-- Add or update the same item in both language versions, preserving category and order. If translation is difficult, a suggestion in an issue is welcome. 双语页面请同步分类、顺序和内容；翻译有困难可先提交 Issue。
+- Add or update the same item in the Chinese `README.md` and English `README.en.md`, preserving category and order. If translation is difficult, a suggestion in an issue is welcome. 请同步中文 `README.md` 与英文 `README.en.md` 的分类、顺序和内容；翻译有困难可先提交 Issue。
 - Link to public official sources; use neutral descriptions, avoid unverifiable claims, tracking or affiliate links, and unsupported pricing or privacy promises. 使用公开官方来源与客观描述，避免无法核实的说法、跟踪或推广联盟链接，以及未经证实的价格或隐私承诺。
 - Explain the change and disclose affiliation. By contributing original content you agree to its distribution under [CC BY 4.0](LICENSE). 说明修改并披露关联；提交原创内容即同意按 CC BY 4.0 分发。
 
