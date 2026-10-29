@@ -32,70 +32,85 @@
 
 | 工具 | 用途 |
 | --- | --- |
-| [百智办公 · MonkeyAI](https://work.baizhi.cloud/) · [源码](https://github.com/chaitin/MonkeyCode) | 面向团队的开源 AI 工作台，覆盖办公、编程与设计任务，支持团队管理和独立部署。 |
-| [腾讯 WorkBuddy](https://cloud.tencent.com/product/workbuddy) | 可委派办公、编程和创意任务的工作台，支持访问授权的本地文件和多智能体协作。 |
-| [Claude / Cowork](https://claude.com/product/cowork) | 跨文件和已连接应用处理多步骤任务；Cowork 能力正逐步并入 Claude，通过桌面应用访问本地文件。 |
-| [ChatGPT](https://chatgpt.com/) | 用于写作、调研、分析等日常任务的 AI 助手。 |
-| [Microsoft Copilot (Microsoft 365)](https://www.microsoft.com/en-us/copilot) | 在 Microsoft 365 应用和工作内容中提供 AI 辅助。 |
-| [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/) | 在 Gmail、Docs、Sheets、Slides 等 Workspace 应用中提供 AI 辅助。 |
-| [Manus](https://manus.im/) | 用于调研及其他多步骤任务的 AI 智能体。 |
-| [Octop](https://github.com/TencentCloud/Octop) | 支持多用户和多智能体的自托管助手，可接入消息渠道与连接器。 |
-| [OpenClaw](https://github.com/openclaw/openclaw) | 自托管助手网关，可将智能体连接到消息渠道和工具。 |
-| [豆包工作伙伴 · Doubao Work Companion](https://aily.feishu.cn/hc/1u7kleqg_3d5z9ttt) | 可结合飞书消息、文档、会议和任务开展工作的 AI 同事。 |
-| [钉钉 AI 助理 · DingTalk AI Assistant](https://page.dingtalk.com/wow/dingtalk/default/dingtalk/AIzhuli) | 钉钉中辅助处理消息、日程、文档和会议的助手。 |
-| [Kimi Work](https://www.kimi.com/products/kimi-work) | 桌面智能体，可使用本地文件、浏览器自动化和定时任务辅助调研与办公。 |
-| [阿里悟空 · Alibaba Wukong](https://wukong.dingtalk.com/) | 面向企业的 AI 工作平台，可操作电脑并与钉钉连接任务。 |
-| [Skywork Desktop](https://skywork.ai/desktop/en/index.html) | 桌面智能体，可基于选定文件完成调研和办公成果，也覆盖编程与设计工作流。 |
-| [Loomy](https://loomy.xunfei.cn/) | 桌面工作助手，支持文件处理、数据分析、调研及连接办公工具。 |
-| [果办 OfficeAce](https://www.huaweicloud.com/product/officeace.html) | 办公 AI 助手，可用于调研、汇报材料、文档和数据相关任务。 |
-| [AutoClaw](https://autoclaw.zhipuai.cn/) | 桌面智能体，可跨文件、浏览器和已连接工具处理多步骤任务。 |
-| [Genspark Super App](https://superapp.genspark.ai/) | 桌面 AI 工作空间，结合团队聊天、邮件以及文档、表格和演示工具。 |
-| [Lindy](https://www.lindy.ai/) | 连接办公工具的 AI 助手，可用于会议、收件箱、日历和定时任务。 |
-| [Hermes Agent](https://hermes-agent.nousresearch.com/docs/user-guide/desktop) | 可配置的智能体，提供桌面界面、技能及消息平台连接，辅助处理周期性工作。 |
-| [Interpreter Workstation](https://github.com/openinterpreter/interpreter-workstation) | 电脑智能体工作台，可连接本地或远程电脑并使用配置的模型。 |
-| [PawWork](https://pawwork.ai/) · [源码](https://github.com/Astro-Han/pawwork) | 早期桌面智能体，可处理办公文件、网页调研及定时任务。 |
-| [Open Duet](https://github.com/Anil-matcha/open-duet) | 实验性工作台，可将调研、写作和定时任务委派给可配置的智能体；需要自备引擎。 |
-| [Comma](https://comma.surf/) | AI 助手，可在已连接应用和文件中处理任务与周期性工作，也提供自托管选项。 |
-| [Cherry Studio](https://github.com/CherryHQ/cherry-studio/) | 多模型桌面工作台，提供智能体、知识库及 PDF 和 Office 文档处理。 |
-| [AStudio](https://agent.xfyun.cn/) | 用于调研、文档和表格的工作台，可围绕本地项目文件夹组织任务。 |
+| [百智办公 · MonkeyAI](https://work.baizhi.cloud/) · [源码](https://github.com/chaitin/MonkeyCode) | **场景：**团队办公与成果制作；**功能：**处理办公、编程和设计任务，支持模型、技能、团队管理及私有化部署。 |
+| [腾讯 WorkBuddy](https://cloud.tencent.com/product/workbuddy) | **场景：**周报、会议纪要和数据汇总；**功能：**规划多步骤任务、读写授权本地文件，并支持多智能体协作。 |
+| [Claude / Cowork](https://claude.com/product/cowork) | **场景：**调研、报告和待审核文件；**功能：**跨所选文件及已连接应用处理多步骤任务，Cowork 能力正逐步并入 Claude。 |
+| [ChatGPT](https://chatgpt.com/) | **场景：**写作、调研和数据分析；**功能：**回答问题、辅助撰写文本及分析上传文件。 |
+| [Microsoft Copilot (Microsoft 365)](https://www.microsoft.com/en-us/copilot) | **场景：**工作文档、邮件和会议；**功能：**在 Microsoft 365 应用及工作内容中提供 AI 辅助。 |
+| [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/) | **场景：**在 Google Workspace 中撰写和整理工作内容；**功能：**为 Gmail、Docs、Sheets 和 Slides 提供 AI 辅助。 |
+| [Manus](https://manus.im/) | **场景：**调研和多步骤成果制作；**功能：**智能体可开展调研并创建文档、演示文稿和网站。 |
+| [Octop](https://github.com/TencentCloud/Octop) | **场景：**团队使用多个 AI 助手；**功能：**自托管工作空间，支持多用户、多智能体、消息渠道与连接器。 |
+| [OpenClaw](https://github.com/openclaw/openclaw) | **场景：**通过消息渠道使用个人助手；**功能：**自托管网关连接智能体、消息渠道和工具。 |
+| [豆包工作伙伴 · Doubao Work Companion](https://aily.feishu.cn/hc/1u7kleqg_3d5z9ttt) | **场景：**跟进团队讨论与任务；**功能：**结合飞书消息、文档、会议和任务开展工作。 |
+| [钉钉 AI 助理 · DingTalk AI Assistant](https://page.dingtalk.com/wow/dingtalk/default/dingtalk/AIzhuli) | **场景：**钉钉内的日常办公；**功能：**辅助处理消息、日程、文档和会议。 |
+| [Kimi Work](https://www.kimi.com/products/kimi-work) | **场景：**本地文档调研与重复任务；**功能：**处理本地文件，支持浏览器自动化和定时任务。 |
+| [阿里悟空 · Alibaba Wukong](https://wukong.dingtalk.com/) | **场景：**跨电脑和钉钉的办公任务；**功能：**操作电脑应用并连接钉钉任务。 |
+| [Skywork Desktop](https://skywork.ai/desktop/en/index.html) | **场景：**调研、报告与演示；**功能：**使用选定文件制作办公成果，也支持编程和设计工作流。 |
+| [Loomy](https://loomy.xunfei.cn/) | **场景：**办公文件与数据分析；**功能：**处理文件、辅助调研并连接办公工具。 |
+| [果办 OfficeAce](https://www.huaweicloud.com/product/officeace.html) | **场景：**办公调研和汇报；**功能：**辅助处理办公文档及数据相关任务。 |
+| [AutoClaw](https://autoclaw.zhipuai.cn/) | **场景：**跨电脑的多步骤工作；**功能：**处理文件、浏览器和已连接工具中的任务。 |
+| [Genspark Super App](https://superapp.genspark.ai/) | **场景：**调研、办公成果制作及团队沟通；**功能：**结合团队聊天、邮件、文档、表格和演示工具。 |
+| [Lindy](https://www.lindy.ai/) | **场景：**会议跟进与重复行政工作；**功能：**连接办公工具以处理会议、收件箱、日历和定时任务。 |
+| [Hermes Agent](https://hermes-agent.nousresearch.com/docs/user-guide/desktop) | **场景：**通过桌面或消息渠道处理周期性事务；**功能：**可配置智能体，提供桌面界面、技能和消息集成。 |
+| [Interpreter Workstation](https://github.com/openinterpreter/interpreter-workstation) | **场景：**使用所选模型处理电脑任务；**功能：**智能体工作台可连接本地或远程电脑，并使用配置的模型。 |
+| [PawWork](https://pawwork.ai/) · [源码](https://github.com/Astro-Han/pawwork) | **场景：**办公文件、调研与重复任务；**功能：**桌面智能体处理办公文件、网页调研及定时任务；项目处于早期。 |
+| [Open Duet](https://github.com/Anil-matcha/open-duet) | **场景：**将调研与写作委派给智能体团队；**功能：**支持配置智能体和定时任务；实验性工作台需要自备引擎。 |
+| [Comma](https://comma.surf/) | **场景：**跨已连接应用处理任务和周期性工作；**功能：**处理应用与文件中的任务，并提供自托管选项。 |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio/) | **场景：**文档处理与知识工作；**功能：**桌面工作台支持多模型、智能体、知识库及 PDF、Office 文件。 |
+| [AStudio](https://agent.xfyun.cn/) | **场景：**项目调研和办公成果制作；**功能：**围绕本地项目文件夹组织文档、表格等任务。 |
+| [百度办公搭子 DuMate（企业版）](https://cloud.baidu.com/product/dumate.html) | **场景：**团队知识工作与业务流程；**功能：**连接企业知识、系统和工作流，支持内容生成与协作。 |
+| [TRAE（TraeWork）](https://www.trae.cn/) | **场景：**跨项目开发与任务推进；**功能：**Agent 模式可跨项目推进任务，IDE 模式用于代码编辑与调试。 |
+| [QoderWork](https://docs.qoder.com/qoderwork/introduction) | **场景：**整理文件和制作报告；**功能：**可处理文档、表格及演示文稿，并支持浏览器自动化和定时任务。 |
+| [有道龙虾 LobsterAI](https://lobsterai.youdao.com/) · [源码](https://github.com/netease-youdao/LobsterAI) | **场景：**调研及办公成果制作；**功能：**可处理文件、文档和表格，并支持浏览器任务、定时任务与消息工具连接。 |
+| [QwenPaw](https://github.com/agentscope-ai/QwenPaw) | **场景：**周期性报告和文档处理；**功能：**支持 PDF 与 Office 格式、定时任务和消息渠道；浏览器工具处于测试阶段。 |
+| [灵犀 AI 助手](https://ai.soho.komect.com/) | **场景：**工作区调研和日常跟进；**功能：**支持网页搜索、处理已授权文件、技能与定时任务。 |
+| [WorkDSH](https://github.com/techflag/workdsh) | **场景：**管理项目任务及成果；**功能：**结合资料库、技能、专家和连接器；目前处于 Alpha 阶段，编辑支持因格式而异。 |
+| [GoodBuddy](https://mesalogo.github.io/goodbuddy/) | **场景：**项目知识检索和任务跟进；**功能：**结合知识搜索、笔记、定时提醒和可配置智能体。 |
+| [Kowork](https://getkowork.com/) | **场景：**基于文件制作办公成果；**功能：**桌面智能体在选定文件夹中工作，使用已配置模型创建文档、表格和演示文稿。 |
+| [Open Cowork](https://github.com/coasty-ai/open-cowork) | **场景：**电脑和浏览器中的多步骤工作；**功能：**可配置智能体，可观察并操作桌面、云端或浏览器环境；本地启动需要配置。 |
+| [OpenWorker](https://github.com/andrewyng/openworker) | **场景：**准备简报和周期性报告；**功能：**桌面智能体可处理文件和已连接应用，并执行定时任务；目前处于开放测试。 |
+| [Box Agent](https://www.box.com/agents) | **场景：**基于企业文件进行调研和内容创作；**功能：**查找、分析 Box 内容并起草成果；可用性取决于方案和访问权限。 |
+| [Relevance AI](https://relevanceai.com/) | **场景：**协调多步骤业务流程；**功能：**构建并连接智能体、知识来源与工具，处理报告、客户支持等任务。 |
+| [Asana AI Teammates](https://asana.com/product/ai/ai-teammates) | **场景：**团队项目协调和请求分派；**功能：**在 Asana 内向智能体分配任务并连接受支持的应用；访问取决于方案、权限和配置。 |
+| [ClickUp Super Agents](https://clickup.com/brain/agents) | **场景：**管理团队任务、报告和日程；**功能：**在 ClickUp 内分配和触发智能体；可用性取决于方案及角色，需启用 AI。 |
 
 ## 写作、文档与演示
 
 | 工具 | 用途 |
 | --- | --- |
-| [Gamma](https://gamma.app/) | 使用 AI 创建演示文稿、文档和网页。 |
-| [Grammarly](https://www.grammarly.com/) | 辅助起草和修改文字，并提供正确性和清晰度建议。 |
-| [Canva AI](https://www.canva.com/canva-ai/) | 辅助设计和内容创作。 |
-| [WPS AI](https://ai.wps.cn/) | 在 WPS 文档、表格和演示中提供 AI 功能。 |
+| [Gamma](https://gamma.app/) | **场景：**制作演示和文档初稿；**功能：**生成或导入内容，编辑演示文稿、文档和网页。 |
+| [Grammarly](https://www.grammarly.com/) | **场景：**职场写作和修改；**功能：**辅助起草，提供正确性、清晰度和语气建议。 |
+| [Canva AI](https://www.canva.com/canva-ai/) | **场景：**制作演示及视觉内容；**功能：**根据提示生成设计，并在设计中改写文字。 |
+| [WPS AI](https://ai.wps.cn/) | **场景：**办公文档和数据处理；**功能：**在 WPS 中辅助写作、摘要、表格分析、演示和 PDF 处理。 |
 
 ## 调研与知识管理
 
 | 工具 | 用途 |
 | --- | --- |
-| [Perplexity](https://www.perplexity.ai/) | AI 搜索和基于来源的回答；[Computer](https://www.perplexity.ai/products/computer) 在适用方案中提供多步骤调研和连接工具的工作流。 |
-| [Gemini Notebook（原 NotebookLM）](https://notebook.google/) | 探索和综合上传的资料，并可提供引用以辅助核对回答。 |
-| [Notion AI](https://www.notion.com/product/ai) | 搜索和处理 Notion 及已连接工具中的知识。 |
-| [Glean](https://www.glean.com/) | 搜索和处理已连接的工作应用中的知识。 |
-| [Elicit](https://elicit.com/) | 查找和分析研究论文，辅助文献综述与证据综合。 |
-| [Consensus](https://consensus.app/) | 辅助搜索和综合科学研究。 |
+| [Perplexity](https://www.perplexity.ai/) | **场景：**调研与多步骤工作；**功能：**提供带来源链接的 AI 搜索，并在适用方案中通过 [Computer](https://www.perplexity.ai/products/computer) 执行调研和连接工具的工作流。 |
+| [Gemini Notebook（原 NotebookLM）](https://notebook.google/) | **场景：**整理与研究资料；**功能：**基于选定来源回答和总结，并在可用时提供引用。 |
+| [Notion AI](https://www.notion.com/product/ai) | **场景：**检索工作知识；**功能：**搜索 Notion 与已连接应用，功能可用性取决于方案。 |
+| [Glean](https://www.glean.com/) | **场景：**查找和使用企业知识；**功能：**搜索已连接的办公应用，并基于信息制作工作成果。 |
+| [Elicit](https://elicit.com/) | **场景：**学术文献综述；**功能：**查找和筛选论文、提取数据并生成研究报告。 |
+| [Consensus](https://consensus.app/) | **场景：**查阅科学证据；**功能：**搜索研究论文，生成带来源链接的摘要。 |
 
 ## 会议与协作
 
 | 工具 | 用途 |
 | --- | --- |
-| [ZoomMate](https://www.zoom.com/en/products/ai-assistant/) | 利用会议上下文，辅助在 Zoom Workplace 中制作交付物及处理后续工作。 |
-| [Otter.ai](https://otter.ai/) | 会议转录、笔记与摘要。 |
-| [Fireflies.ai](https://fireflies.ai/) | 转录和搜索对话，并生成 AI 会议笔记。 |
-| [Fathom](https://www.fathom.ai/) | 会议录制、转录与摘要。 |
+| [ZoomMate](https://www.zoom.com/en/products/ai-assistant/) | **场景：**会前准备和会后跟进；**功能：**结合会议上下文起草议程、文档和演示文稿。 |
+| [Otter.ai](https://otter.ai/) | **场景：**会议记录及跟进；**功能：**会议转录、摘要与待办事项。 |
+| [Fireflies.ai](https://fireflies.ai/) | **场景：**查找和复盘会议讨论；**功能：**转录、总结和搜索对话。 |
+| [Fathom](https://www.fathom.ai/) | **场景：**记录实时会议；**功能：**录制、转录会议并生成摘要。 |
 
 ## 工作流自动化
 
 | 工具 | 用途 |
 | --- | --- |
-| [Zapier](https://zapier.com/ai) | 连接应用并通过 AI 功能自动化工作流。 |
-| [Make](https://www.make.com/ai-automation) | 跨应用搭建自动化与 AI 工作流。 |
-| [n8n](https://n8n.io/) | 构建工作流自动化和 AI 智能体工作流。 |
-| [Dify](https://github.com/langgenius/dify) | 使用工作流、智能体和知识检索构建 AI 应用。 |
+| [Zapier](https://zapier.com/ai) | **场景：**跨应用的重复工作；**功能：**连接触发条件与动作，并辅助使用 AI 构建工作流。 |
+| [Make](https://www.make.com/ai-automation) | **场景：**跨应用流程；**功能：**构建含 AI 步骤和智能体工具的多步骤场景。 |
+| [n8n](https://n8n.io/) | **场景：**业务流程自动化；**功能：**连接应用 API、转换数据并搭建 AI 工作流。 |
+| [Dify](https://github.com/langgenius/dify) | **场景：**构建办公 AI 应用；**功能：**使用智能体、工作流及知识检索，发布 Web 应用或 API。 |
 
 ## 收录与排序说明
 

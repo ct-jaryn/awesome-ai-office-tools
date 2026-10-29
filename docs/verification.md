@@ -47,3 +47,54 @@ An unauthenticated HTTP check of the 18 distinct links in the new or changed dir
 - [Cherry Studio](https://github.com/CherryHQ/cherry-studio/) — desktop agents and document handling / 桌面智能体与文档处理。
 - [AStudio](https://agent.xfyun.cn/studio-guide/features) — workbench tasks, project folders and artifact preview / 工作台任务、项目文件夹及成果预览。
 - [Perplexity Computer](https://www.perplexity.ai/products/computer) — research, connected workflows and plan availability / 调研、连接工具的工作流与方案适用范围。
+
+## Scenarios and features expansion / 场景与功能扩充 · 2026-10-29
+
+Fifteen products were added and the existing 44 entries were rewritten to distinguish intended uses and main features. Their descriptions draw on the linked public product pages and official documents below, including the earlier reviews. Sources describe provider or project claims, not independent testing or security assessment. Availability and configuration can change.
+
+本轮新增 15 项，并为原有 44 项补充适用场景和主要功能。描述依据条目中的公开官网、以下官方资料及前述核验记录；这些是厂商或项目方资料，不代表独立实测或安全审计。产品可用性和配置可能变化。
+
+The 16 distinct new product and source URLs were checked without authentication: 15 returned HTTP 200; Box returned HTTP 403 to the automated client, while its public product page was readable through a web source. A 403 alone does not establish that a page is unavailable.
+
+本轮 16 个不同的新增产品与源码链接经未登录 HTTP 检查，15 个返回 200；Box 对自动客户端返回 403，但可通过网页来源读取其公开产品页。403 本身不能证明页面不可用。
+
+### New entries / 新增条目
+
+- [Baidu DuMate](https://cloud.baidu.com/product/dumate.html).
+- [TRAE (TraeWork)](https://www.trae.cn/).
+- [QoderWork](https://docs.qoder.com/qoderwork/introduction).
+- [LobsterAI](https://lobsterai.youdao.com/) · [Source](https://github.com/netease-youdao/LobsterAI).
+- [QwenPaw](https://github.com/agentscope-ai/QwenPaw).
+- [Lingxi AI Assistant](https://ai.soho.komect.com/).
+- [WorkDSH](https://github.com/techflag/workdsh).
+- [GoodBuddy](https://mesalogo.github.io/goodbuddy/).
+- [Kowork](https://getkowork.com/).
+- [Open Cowork](https://github.com/coasty-ai/open-cowork).
+- [OpenWorker](https://github.com/andrewyng/openworker).
+- [Box Agent](https://www.box.com/agents).
+- [Relevance AI](https://relevanceai.com/).
+- [Asana AI Teammates](https://asana.com/product/ai/ai-teammates).
+- [ClickUp Super Agents](https://clickup.com/brain/agents).
+
+Additional context / 补充资料： [TRAE migration / 升级说明](https://docs.trae.cn/work_traework-to-traecode-data-migration) · [QoderWork introduction / 简介](https://docs.qoder.com/zh/qoderwork/introduction) · [QwenPaw browser beta / 浏览器测试版](https://github.com/agentscope-ai/QwenPaw/blob/main/website/public/docs/browser.en.md) · [ClickUp Super Agents / 官方说明](https://help.clickup.com/hc/en-us/articles/31010910371991-What-are-Super-Agents) · [Relevance AI documentation / 文档](https://relevanceai.com/docs/get-started/introduction).
+
+### Further sources for updated entries / 原有条目补充资料
+
+- Gamma: [official source 1](https://help.gamma.app/en/articles/7838093-how-do-i-create-a-new-presentation-document-or-webpage-in-gamma).
+- Grammarly: [official source 1](https://www.grammarly.com/business/overview-one-pager.pdf).
+- Canva: [official source 1](https://www.canva.com/help/using-magic-presentations/) · [official source 2](https://www.canva.com/help/about-magic-write/).
+- WPS: [official source 1](https://ai.wps.cn/cms/Eluo8eI8.html).
+- Perplexity: [official source 1](https://www.perplexity.ai/help-center/en/articles/10352903-what-is-pro-search) · [official source 2](https://www.perplexity.ai/products/computer).
+- Gemini Notebook: [official source 1](https://support.google.com/gemininotebook/answer/16215270).
+- Notion AI: [official source 1](https://www.notion.com/help/enterprise-search).
+- Glean: [official source 1](https://docs.glean.com/user-guide/about/what-is-glean).
+- Elicit: [official source 1](https://support.elicit.com/en/articles/14757543-getting-started-with-elicit-which-workflow-should-i-use).
+- Consensus: [official source 1](https://help.consensus.app/en/articles/9922673-how-consensus-works).
+- ZoomMate: [official source 1](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0083738).
+- Otter: [official source 1](https://help.otter.ai/hc/en-us/articles/9156381229079-Meeting-Summary-Overview).
+- Fireflies: [official source 1](https://fireflies.ai/).
+- Fathom: [official source 1](https://help.fathom.video/en/articles/6049729).
+- Zapier: [official source 1](https://help.zapier.com/hc/en-us/articles/22234847450893-Zap-workflows-quick-start-guide).
+- Make: [official source 1](https://help.make.com/whats-a-scenario-and-which-type-should-you-use).
+- n8n: [official source 1](https://docs.n8n.io/).
+- Dify: [official source 1](https://docs.dify.ai/en/home).
