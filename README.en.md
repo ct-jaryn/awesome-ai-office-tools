@@ -32,103 +32,103 @@ For data handling, permissions and recording considerations, see the [privacy an
 
 | Tool | What it helps with |
 | --- | --- |
-| [Baizhi Office · MonkeyAI (百智办公)](https://work.baizhi.cloud/) · [Source](https://github.com/chaitin/MonkeyCode) | **Use:** Team office work and deliverables; **Features:** office, coding, and design tasks with configurable models, skills, team management, and self-hosting. |
-| [Tencent WorkBuddy](https://cloud.tencent.com/product/workbuddy) | **Use:** Weekly reports, meeting notes, and data summaries; **Features:** plans multi-step tasks, reads and writes authorized local files, and coordinates agents. |
-| [Claude / Cowork](https://claude.com/product/cowork) | **Use:** Research, reports, and files for review; **Features:** performs multi-step work across chosen files and connected apps; Cowork capabilities are rolling into Claude. |
-| [ChatGPT](https://chatgpt.com/) | **Use:** Writing, research, and data analysis; **Features:** answers questions, helps draft text, and analyzes uploaded files. |
-| [Microsoft Copilot (Microsoft 365)](https://www.microsoft.com/en-us/copilot) | **Use:** Workplace documents, email, and meetings; **Features:** AI assistance across Microsoft 365 apps and work content. |
-| [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/) | **Use:** Drafting and organizing work in Google Workspace; **Features:** AI assistance in Gmail, Docs, Sheets, and Slides. |
-| [Manus](https://manus.im/) | **Use:** Research and multi-step deliverables; **Features:** an agent researches topics and creates documents, presentations, and websites. |
-| [Octop](https://github.com/TencentCloud/Octop) | **Use:** Teams operating several AI assistants; **Features:** self-hosted workspace with multiple users, agents, messaging channels, and connectors. |
-| [OpenClaw](https://github.com/openclaw/openclaw) | **Use:** Personal assistance through messaging channels; **Features:** self-hosted gateway connects agents to messaging channels and tools. |
-| [Doubao Work Companion (豆包工作伙伴)](https://aily.feishu.cn/hc/1u7kleqg_3d5z9ttt) | **Use:** Following up on team discussions and tasks; **Features:** works with Feishu messages, documents, meetings, and tasks. |
-| [DingTalk AI Assistant (钉钉 AI 助理)](https://page.dingtalk.com/wow/dingtalk/default/dingtalk/AIzhuli) | **Use:** Daily work in DingTalk; **Features:** assists with messages, schedules, documents, and meetings. |
-| [Kimi Work](https://www.kimi.com/products/kimi-work) | **Use:** Local document research and recurring tasks; **Features:** handles local files, browser automation, and scheduled work. |
-| [Alibaba Wukong](https://wukong.dingtalk.com/) | **Use:** Work tasks across a computer and DingTalk; **Features:** operates computer applications and connects tasks with DingTalk. |
-| [Skywork Desktop](https://skywork.ai/desktop/en/index.html) | **Use:** Research, reports, and presentations; **Features:** works with selected files and creates office deliverables, alongside coding and design workflows. |
-| [Loomy](https://loomy.xunfei.cn/) | **Use:** File and data analysis for office work; **Features:** processes files, supports research, and connects workplace tools. |
-| [OfficeAce](https://www.huaweicloud.com/product/officeace.html) | **Use:** Research and reporting for office work; **Features:** assists with workplace documents and data-related tasks. |
-| [AutoClaw](https://autoclaw.zhipuai.cn/) | **Use:** Multi-step work across a computer; **Features:** works with files, browsers, and connected tools. |
-| [Genspark Super App](https://superapp.genspark.ai/) | **Use:** Research and office deliverables with team communication; **Features:** combines team chat, email, documents, spreadsheets, and presentations. |
-| [Lindy](https://www.lindy.ai/) | **Use:** Meeting follow-up and recurring administrative work; **Features:** connects workplace tools for meetings, inbox, calendar, and scheduled routines. |
-| [Hermes Agent](https://hermes-agent.nousresearch.com/docs/user-guide/desktop) | **Use:** Recurring assistant work through desktop or messaging; **Features:** configurable agent with a desktop interface, skills, and messaging integrations. |
-| [Interpreter Workstation](https://github.com/openinterpreter/interpreter-workstation) | **Use:** Computer tasks using a chosen model; **Features:** agent workspace connects to local or remote computers and supports configured models. |
-| [PawWork](https://pawwork.ai/) · [Source](https://github.com/Astro-Han/pawwork) | **Use:** Office files, research, and recurring tasks; **Features:** desktop agent handles office files, web research, and scheduled work; early-stage project. |
-| [Open Duet](https://github.com/Anil-matcha/open-duet) | **Use:** Delegating research and writing to agent teams; **Features:** configurable agents and scheduled routines; experimental workspace requires an engine. |
-| [Comma](https://comma.surf/) | **Use:** Tasks and recurring work across connected apps; **Features:** works with connected apps and files and offers self-hosting. |
-| [Cherry Studio](https://github.com/CherryHQ/cherry-studio/) | **Use:** Document processing and knowledge work; **Features:** desktop workspace supports multiple models, agents, knowledge bases, and PDF and Office files. |
-| [AStudio](https://agent.xfyun.cn/) | **Use:** Project research and office deliverables; **Features:** organizes tasks around local project folders for documents and spreadsheets. |
-| [Baidu DuMate (Enterprise)](https://cloud.baidu.com/product/dumate.html) | **Use:** team knowledge work and business processes; **Features:** integrates enterprise knowledge, systems, and workflows for content creation and collaboration. |
-| [TRAE (TraeWork)](https://www.trae.cn/) | **Use:** cross-project development and task coordination; **Features:** Agent mode coordinates work across projects, while IDE mode supports code editing and debugging. |
-| [QoderWork](https://docs.qoder.com/qoderwork/introduction) | **Use:** file organization and reports; **Features:** works with documents, spreadsheets and presentations, with browser automation and scheduled tasks. |
-| [LobsterAI](https://lobsterai.youdao.com/) · [Source](https://github.com/netease-youdao/LobsterAI) | **Use:** research and office deliverables; **Features:** works with files, documents and spreadsheets, and supports browser tasks, scheduled jobs and messaging integrations. |
-| [QwenPaw](https://github.com/agentscope-ai/QwenPaw) | **Use:** recurring reports and document processing; **Features:** works with PDF and Office formats, scheduled tasks and messaging channels; the browser tool is in beta. |
-| [Lingxi AI Assistant](https://ai.soho.komect.com/) | **Use:** workspace research and routine follow-up; **Features:** searches the web, works with authorized files, and supports skills and scheduled tasks. |
-| [WorkDSH](https://github.com/techflag/workdsh) | **Use:** organizing project work and deliverables; **Features:** combines a materials library, skills, experts and connectors; it is in alpha and editing support varies by format. |
-| [GoodBuddy](https://mesalogo.github.io/goodbuddy/) | **Use:** searching project knowledge and following up on tasks; **Features:** combines knowledge search, notes, scheduled reminders and configurable agents. |
-| [Kowork](https://getkowork.com/) | **Use:** creating office deliverables from files; **Features:** a desktop agent that works in a selected folder and creates documents, spreadsheets, and presentations with configured models. |
-| [Open Cowork](https://github.com/coasty-ai/open-cowork) | **Use:** multi-step computer and browser work; **Features:** a configurable agent that observes and operates desktop, cloud, or browser environments; the local quickstart requires setup. |
-| [OpenWorker](https://github.com/andrewyng/openworker) | **Use:** preparing briefs and recurring reports; **Features:** a desktop agent that works with files and connected apps, with scheduled tasks; currently in open beta. |
-| [Box Agent](https://www.box.com/agents) | **Use:** research and content creation from enterprise files; **Features:** finds and analyzes Box content and drafts deliverables; availability depends on plan and access. |
-| [Relevance AI](https://relevanceai.com/) | **Use:** coordinating multi-step business workflows; **Features:** build and connect agents, knowledge sources, and tools for tasks such as reporting and customer support. |
-| [Asana AI Teammates](https://asana.com/product/ai/ai-teammates) | **Use:** team project coordination and request triage; **Features:** assign tasks to agents within Asana and connect supported apps; access depends on plan, permissions, and configuration. |
-| [ClickUp Super Agents](https://clickup.com/brain/agents) | **Use:** managing team tasks, reports, and scheduling; **Features:** assign and trigger agents within ClickUp; availability depends on plan and role, and AI must be enabled. |
-| [QwenWork (千问办公)](https://qwenwork.cn/) | **Use:** office files and presentations; **Features:** combines Office tools, browser automation, and scheduled tasks; capabilities depend on edition and configuration. |
-| [Coze (扣子)](https://www.coze.cn/) | **Use:** team office work, organizing material, and multi-step projects; **Features:** coordinate multiple agents, manage projects and files, and work with local files through the desktop app. |
-| [AionUi](https://github.com/iOfficeAI/AionUi/) | **Use:** file organization and recurring tasks; **Features:** a desktop workspace that connects multiple agents and supports file operations and scheduling; capabilities depend on configuration. |
-| [Eigent](https://www.eigent.ai/) | **Use:** research and dividing team tasks; **Features:** a desktop workspace with configurable models, tool connections, and multi-agent collaboration. |
-| [CoWork OS](https://coworkosapp.com/) | **Use:** documents, spreadsheets, and recurring office tasks; **Features:** a desktop workspace for choosing models, working with files and connected tools, and configuring automations. |
-| [Pipali](https://pipali.ai/) | **Use:** research and recurring office work; **Features:** a desktop assistant for file and browser tasks, tool connections, and scheduled tasks; currently in beta. |
-| [Nexus](https://github.com/nexus-research-lab/nexus) | **Use:** team and research collaboration; **Features:** organize multiple agents in rooms and configure office skills and external connectors. |
-| [LaborAny](https://github.com/laborany/laborany) | **Use:** document, research, and data tasks; **Features:** a desktop workspace with skills, scheduled tasks, and Feishu and QQ connections. |
-| [TeleAgent (星辰超级智能体)](https://www.teleai.com.cn/product/teleagent) | **Use:** organizing office files and work reports; **Features:** a desktop assistant for organizing folders, extracting document and spreadsheet information, and creating outlines. |
-| [Dume Cowork](https://www.dume.ai/cowork) | **Use:** file organization and work across websites; **Features:** a desktop assistant combining a browser with built-in document, spreadsheet, presentation, and PDF tools. |
-| [Adamant](https://adamantcore.ai/) | **Use:** web research, reports, and data work; **Features:** a desktop agent for files and PDFs, document and spreadsheet creation, and web research. |
-| [OpenWork](https://openworklabs.com/) | **Use:** tasks involving files and workplace tools; **Features:** a desktop workspace with model selection, skills, tool connections, and automation; features vary by version and configuration. |
-| [AnythingLLM](https://anythingllm.com/) | **Use:** questions about project material and work research; **Features:** workspaces support document knowledge bases, model selection, agent skills, and background jobs. |
-| [Abacus AI Desktop](https://abacus.ai/teams/desktop) | **Use:** documents, spreadsheets, and meetings; **Features:** a desktop workspace for creating documents, spreadsheets, and presentations, with browsing and meeting assistance. |
-| [Nano Work (纳米 Work)](https://work.n.cn/) | **Use:** business planning and office materials; **Features:** multi-agent collaboration for data analysis, documents, and process tasks. |
-| [ASI:Work](https://asi1.ai/work) | **Use:** organizing files and recurring reports; **Features:** works with files in a selected folder and supports scheduled tasks. |
-| [Abu (阿布)](https://github.com/PM-Shawn/Abu-Cowork) | **Use:** office files and web tasks; **Features:** a desktop workspace for file handling, browser operations, and scheduled tasks; model configuration is required. |
-| [Kun](https://github.com/KunAgent/Kun) | **Use:** writing, research, and work tasks; **Features:** a desktop workspace with agents, tool connections, and automation; the project uses a noncommercial license; commercial use requires separate written permission. |
+| [Baizhi Office · MonkeyAI (百智办公)](https://work.baizhi.cloud/) · [Source](https://github.com/chaitin/MonkeyCode) | <strong>Use:</strong> Team office work and deliverables<br><strong>Features:</strong> office, coding, and design tasks with configurable models, skills, team management, and self-hosting. |
+| [Tencent WorkBuddy](https://cloud.tencent.com/product/workbuddy) | <strong>Use:</strong> Weekly reports, meeting notes, and data summaries<br><strong>Features:</strong> plans multi-step tasks, reads and writes authorized local files, and coordinates agents. |
+| [Claude / Cowork](https://claude.com/product/cowork) | <strong>Use:</strong> Research, reports, and files for review<br><strong>Features:</strong> performs multi-step work across chosen files and connected apps; Cowork capabilities are rolling into Claude. |
+| [ChatGPT](https://chatgpt.com/) | <strong>Use:</strong> Writing, research, and data analysis<br><strong>Features:</strong> answers questions, helps draft text, and analyzes uploaded files. |
+| [Microsoft Copilot (Microsoft 365)](https://www.microsoft.com/en-us/copilot) | <strong>Use:</strong> Workplace documents, email, and meetings<br><strong>Features:</strong> AI assistance across Microsoft 365 apps and work content. |
+| [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/) | <strong>Use:</strong> Drafting and organizing work in Google Workspace<br><strong>Features:</strong> AI assistance in Gmail, Docs, Sheets, and Slides. |
+| [Manus](https://manus.im/) | <strong>Use:</strong> Research and multi-step deliverables<br><strong>Features:</strong> an agent researches topics and creates documents, presentations, and websites. |
+| [Octop](https://github.com/TencentCloud/Octop) | <strong>Use:</strong> Teams operating several AI assistants<br><strong>Features:</strong> self-hosted workspace with multiple users, agents, messaging channels, and connectors. |
+| [OpenClaw](https://github.com/openclaw/openclaw) | <strong>Use:</strong> Personal assistance through messaging channels<br><strong>Features:</strong> self-hosted gateway connects agents to messaging channels and tools. |
+| [Doubao Work Companion (豆包工作伙伴)](https://aily.feishu.cn/hc/1u7kleqg_3d5z9ttt) | <strong>Use:</strong> Following up on team discussions and tasks<br><strong>Features:</strong> works with Feishu messages, documents, meetings, and tasks. |
+| [DingTalk AI Assistant (钉钉 AI 助理)](https://page.dingtalk.com/wow/dingtalk/default/dingtalk/AIzhuli) | <strong>Use:</strong> Daily work in DingTalk<br><strong>Features:</strong> assists with messages, schedules, documents, and meetings. |
+| [Kimi Work](https://www.kimi.com/products/kimi-work) | <strong>Use:</strong> Local document research and recurring tasks<br><strong>Features:</strong> handles local files, browser automation, and scheduled work. |
+| [Alibaba Wukong](https://wukong.dingtalk.com/) | <strong>Use:</strong> Work tasks across a computer and DingTalk<br><strong>Features:</strong> operates computer applications and connects tasks with DingTalk. |
+| [Skywork Desktop](https://skywork.ai/desktop/en/index.html) | <strong>Use:</strong> Research, reports, and presentations<br><strong>Features:</strong> works with selected files and creates office deliverables, alongside coding and design workflows. |
+| [Loomy](https://loomy.xunfei.cn/) | <strong>Use:</strong> File and data analysis for office work<br><strong>Features:</strong> processes files, supports research, and connects workplace tools. |
+| [OfficeAce](https://www.huaweicloud.com/product/officeace.html) | <strong>Use:</strong> Research and reporting for office work<br><strong>Features:</strong> assists with workplace documents and data-related tasks. |
+| [AutoClaw](https://autoclaw.zhipuai.cn/) | <strong>Use:</strong> Multi-step work across a computer<br><strong>Features:</strong> works with files, browsers, and connected tools. |
+| [Genspark Super App](https://superapp.genspark.ai/) | <strong>Use:</strong> Research and office deliverables with team communication<br><strong>Features:</strong> combines team chat, email, documents, spreadsheets, and presentations. |
+| [Lindy](https://www.lindy.ai/) | <strong>Use:</strong> Meeting follow-up and recurring administrative work<br><strong>Features:</strong> connects workplace tools for meetings, inbox, calendar, and scheduled routines. |
+| [Hermes Agent](https://hermes-agent.nousresearch.com/docs/user-guide/desktop) | <strong>Use:</strong> Recurring assistant work through desktop or messaging<br><strong>Features:</strong> configurable agent with a desktop interface, skills, and messaging integrations. |
+| [Interpreter Workstation](https://github.com/openinterpreter/interpreter-workstation) | <strong>Use:</strong> Computer tasks using a chosen model<br><strong>Features:</strong> agent workspace connects to local or remote computers and supports configured models. |
+| [PawWork](https://pawwork.ai/) · [Source](https://github.com/Astro-Han/pawwork) | <strong>Use:</strong> Office files, research, and recurring tasks<br><strong>Features:</strong> desktop agent handles office files, web research, and scheduled work; early-stage project. |
+| [Open Duet](https://github.com/Anil-matcha/open-duet) | <strong>Use:</strong> Delegating research and writing to agent teams<br><strong>Features:</strong> configurable agents and scheduled routines; experimental workspace requires an engine. |
+| [Comma](https://comma.surf/) | <strong>Use:</strong> Tasks and recurring work across connected apps<br><strong>Features:</strong> works with connected apps and files and offers self-hosting. |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio/) | <strong>Use:</strong> Document processing and knowledge work<br><strong>Features:</strong> desktop workspace supports multiple models, agents, knowledge bases, and PDF and Office files. |
+| [AStudio](https://agent.xfyun.cn/) | <strong>Use:</strong> Project research and office deliverables<br><strong>Features:</strong> organizes tasks around local project folders for documents and spreadsheets. |
+| [Baidu DuMate (Enterprise)](https://cloud.baidu.com/product/dumate.html) | <strong>Use:</strong> team knowledge work and business processes<br><strong>Features:</strong> integrates enterprise knowledge, systems, and workflows for content creation and collaboration. |
+| [TRAE (TraeWork)](https://www.trae.cn/) | <strong>Use:</strong> cross-project development and task coordination<br><strong>Features:</strong> Agent mode coordinates work across projects, while IDE mode supports code editing and debugging. |
+| [QoderWork](https://docs.qoder.com/qoderwork/introduction) | <strong>Use:</strong> file organization and reports<br><strong>Features:</strong> works with documents, spreadsheets and presentations, with browser automation and scheduled tasks. |
+| [LobsterAI](https://lobsterai.youdao.com/) · [Source](https://github.com/netease-youdao/LobsterAI) | <strong>Use:</strong> research and office deliverables<br><strong>Features:</strong> works with files, documents and spreadsheets, and supports browser tasks, scheduled jobs and messaging integrations. |
+| [QwenPaw](https://github.com/agentscope-ai/QwenPaw) | <strong>Use:</strong> recurring reports and document processing<br><strong>Features:</strong> works with PDF and Office formats, scheduled tasks and messaging channels; the browser tool is in beta. |
+| [Lingxi AI Assistant](https://ai.soho.komect.com/) | <strong>Use:</strong> workspace research and routine follow-up<br><strong>Features:</strong> searches the web, works with authorized files, and supports skills and scheduled tasks. |
+| [WorkDSH](https://github.com/techflag/workdsh) | <strong>Use:</strong> organizing project work and deliverables<br><strong>Features:</strong> combines a materials library, skills, experts and connectors; it is in alpha and editing support varies by format. |
+| [GoodBuddy](https://mesalogo.github.io/goodbuddy/) | <strong>Use:</strong> searching project knowledge and following up on tasks<br><strong>Features:</strong> combines knowledge search, notes, scheduled reminders and configurable agents. |
+| [Kowork](https://getkowork.com/) | <strong>Use:</strong> creating office deliverables from files<br><strong>Features:</strong> a desktop agent that works in a selected folder and creates documents, spreadsheets, and presentations with configured models. |
+| [Open Cowork](https://github.com/coasty-ai/open-cowork) | <strong>Use:</strong> multi-step computer and browser work<br><strong>Features:</strong> a configurable agent that observes and operates desktop, cloud, or browser environments; the local quickstart requires setup. |
+| [OpenWorker](https://github.com/andrewyng/openworker) | <strong>Use:</strong> preparing briefs and recurring reports<br><strong>Features:</strong> a desktop agent that works with files and connected apps, with scheduled tasks; currently in open beta. |
+| [Box Agent](https://www.box.com/agents) | <strong>Use:</strong> research and content creation from enterprise files<br><strong>Features:</strong> finds and analyzes Box content and drafts deliverables; availability depends on plan and access. |
+| [Relevance AI](https://relevanceai.com/) | <strong>Use:</strong> coordinating multi-step business workflows<br><strong>Features:</strong> build and connect agents, knowledge sources, and tools for tasks such as reporting and customer support. |
+| [Asana AI Teammates](https://asana.com/product/ai/ai-teammates) | <strong>Use:</strong> team project coordination and request triage<br><strong>Features:</strong> assign tasks to agents within Asana and connect supported apps; access depends on plan, permissions, and configuration. |
+| [ClickUp Super Agents](https://clickup.com/brain/agents) | <strong>Use:</strong> managing team tasks, reports, and scheduling<br><strong>Features:</strong> assign and trigger agents within ClickUp; availability depends on plan and role, and AI must be enabled. |
+| [QwenWork (千问办公)](https://qwenwork.cn/) | <strong>Use:</strong> office files and presentations<br><strong>Features:</strong> combines Office tools, browser automation, and scheduled tasks; capabilities depend on edition and configuration. |
+| [Coze (扣子)](https://www.coze.cn/) | <strong>Use:</strong> team office work, organizing material, and multi-step projects<br><strong>Features:</strong> coordinate multiple agents, manage projects and files, and work with local files through the desktop app. |
+| [AionUi](https://github.com/iOfficeAI/AionUi/) | <strong>Use:</strong> file organization and recurring tasks<br><strong>Features:</strong> a desktop workspace that connects multiple agents and supports file operations and scheduling; capabilities depend on configuration. |
+| [Eigent](https://www.eigent.ai/) | <strong>Use:</strong> research and dividing team tasks<br><strong>Features:</strong> a desktop workspace with configurable models, tool connections, and multi-agent collaboration. |
+| [CoWork OS](https://coworkosapp.com/) | <strong>Use:</strong> documents, spreadsheets, and recurring office tasks<br><strong>Features:</strong> a desktop workspace for choosing models, working with files and connected tools, and configuring automations. |
+| [Pipali](https://pipali.ai/) | <strong>Use:</strong> research and recurring office work<br><strong>Features:</strong> a desktop assistant for file and browser tasks, tool connections, and scheduled tasks; currently in beta. |
+| [Nexus](https://github.com/nexus-research-lab/nexus) | <strong>Use:</strong> team and research collaboration<br><strong>Features:</strong> organize multiple agents in rooms and configure office skills and external connectors. |
+| [LaborAny](https://github.com/laborany/laborany) | <strong>Use:</strong> document, research, and data tasks<br><strong>Features:</strong> a desktop workspace with skills, scheduled tasks, and Feishu and QQ connections. |
+| [TeleAgent (星辰超级智能体)](https://www.teleai.com.cn/product/teleagent) | <strong>Use:</strong> organizing office files and work reports<br><strong>Features:</strong> a desktop assistant for organizing folders, extracting document and spreadsheet information, and creating outlines. |
+| [Dume Cowork](https://www.dume.ai/cowork) | <strong>Use:</strong> file organization and work across websites<br><strong>Features:</strong> a desktop assistant combining a browser with built-in document, spreadsheet, presentation, and PDF tools. |
+| [Adamant](https://adamantcore.ai/) | <strong>Use:</strong> web research, reports, and data work<br><strong>Features:</strong> a desktop agent for files and PDFs, document and spreadsheet creation, and web research. |
+| [OpenWork](https://openworklabs.com/) | <strong>Use:</strong> tasks involving files and workplace tools<br><strong>Features:</strong> a desktop workspace with model selection, skills, tool connections, and automation; features vary by version and configuration. |
+| [AnythingLLM](https://anythingllm.com/) | <strong>Use:</strong> questions about project material and work research<br><strong>Features:</strong> workspaces support document knowledge bases, model selection, agent skills, and background jobs. |
+| [Abacus AI Desktop](https://abacus.ai/teams/desktop) | <strong>Use:</strong> documents, spreadsheets, and meetings<br><strong>Features:</strong> a desktop workspace for creating documents, spreadsheets, and presentations, with browsing and meeting assistance. |
+| [Nano Work (纳米 Work)](https://work.n.cn/) | <strong>Use:</strong> business planning and office materials<br><strong>Features:</strong> multi-agent collaboration for data analysis, documents, and process tasks. |
+| [ASI:Work](https://asi1.ai/work) | <strong>Use:</strong> organizing files and recurring reports<br><strong>Features:</strong> works with files in a selected folder and supports scheduled tasks. |
+| [Abu (阿布)](https://github.com/PM-Shawn/Abu-Cowork) | <strong>Use:</strong> office files and web tasks<br><strong>Features:</strong> a desktop workspace for file handling, browser operations, and scheduled tasks; model configuration is required. |
+| [Kun](https://github.com/KunAgent/Kun) | <strong>Use:</strong> writing, research, and work tasks<br><strong>Features:</strong> a desktop workspace with agents, tool connections, and automation; the project uses a noncommercial license; commercial use requires separate written permission. |
 
 ## Writing, documents and presentations
 
 | Tool | What it helps with |
 | --- | --- |
-| [Gamma](https://gamma.app/) | **Use:** presentations and document drafts; **Features:** generate or import content and edit slides, documents, and webpages. |
-| [Grammarly](https://www.grammarly.com/) | **Use:** workplace writing and revision; **Features:** drafting help and suggestions for correctness, clarity, and tone. |
-| [Canva AI](https://www.canva.com/canva-ai/) | **Use:** presentations and visual content; **Features:** generate designs from prompts and rewrite text within designs. |
-| [WPS AI](https://ai.wps.cn/) | **Use:** office documents and data; **Features:** writing, summaries, spreadsheet analysis, presentations, and PDF assistance within WPS. |
+| [Gamma](https://gamma.app/) | <strong>Use:</strong> presentations and document drafts<br><strong>Features:</strong> generate or import content and edit slides, documents, and webpages. |
+| [Grammarly](https://www.grammarly.com/) | <strong>Use:</strong> workplace writing and revision<br><strong>Features:</strong> drafting help and suggestions for correctness, clarity, and tone. |
+| [Canva AI](https://www.canva.com/canva-ai/) | <strong>Use:</strong> presentations and visual content<br><strong>Features:</strong> generate designs from prompts and rewrite text within designs. |
+| [WPS AI](https://ai.wps.cn/) | <strong>Use:</strong> office documents and data<br><strong>Features:</strong> writing, summaries, spreadsheet analysis, presentations, and PDF assistance within WPS. |
 
 ## Research and knowledge
 
 | Tool | What it helps with |
 | --- | --- |
-| [Perplexity](https://www.perplexity.ai/) | **Use:** research and multi-step work; **Features:** source-linked AI search and, on eligible plans, [Computer](https://www.perplexity.ai/products/computer) for research and connected workflows. |
-| [Gemini Notebook (formerly NotebookLM)](https://notebook.google/) | **Use:** working through research materials; **Features:** answers and summaries based on selected sources, with citations where available. |
-| [Notion AI](https://www.notion.com/product/ai) | **Use:** workplace knowledge retrieval; **Features:** search Notion and connected apps, with availability depending on plan. |
-| [Glean](https://www.glean.com/) | **Use:** finding and using company knowledge; **Features:** search connected workplace apps and turn information into work products. |
-| [Elicit](https://elicit.com/) | **Use:** academic literature reviews; **Features:** find and screen papers, extract data, and generate research reports. |
-| [Consensus](https://consensus.app/) | **Use:** reviewing scientific evidence; **Features:** search research papers and generate summaries with links to sources. |
+| [Perplexity](https://www.perplexity.ai/) | <strong>Use:</strong> research and multi-step work<br><strong>Features:</strong> source-linked AI search and, on eligible plans, [Computer](https://www.perplexity.ai/products/computer) for research and connected workflows. |
+| [Gemini Notebook (formerly NotebookLM)](https://notebook.google/) | <strong>Use:</strong> working through research materials<br><strong>Features:</strong> answers and summaries based on selected sources, with citations where available. |
+| [Notion AI](https://www.notion.com/product/ai) | <strong>Use:</strong> workplace knowledge retrieval<br><strong>Features:</strong> search Notion and connected apps, with availability depending on plan. |
+| [Glean](https://www.glean.com/) | <strong>Use:</strong> finding and using company knowledge<br><strong>Features:</strong> search connected workplace apps and turn information into work products. |
+| [Elicit](https://elicit.com/) | <strong>Use:</strong> academic literature reviews<br><strong>Features:</strong> find and screen papers, extract data, and generate research reports. |
+| [Consensus](https://consensus.app/) | <strong>Use:</strong> reviewing scientific evidence<br><strong>Features:</strong> search research papers and generate summaries with links to sources. |
 
 ## Meetings and collaboration
 
 | Tool | What it helps with |
 | --- | --- |
-| [ZoomMate](https://www.zoom.com/en/products/ai-assistant/) | **Use:** meeting preparation and follow-up; **Features:** work with meeting context to draft agendas, documents, and slides. |
-| [Otter.ai](https://otter.ai/) | **Use:** meeting notes and follow-up; **Features:** transcription, summaries, and action items. |
-| [Fireflies.ai](https://fireflies.ai/) | **Use:** finding and reviewing meeting discussions; **Features:** transcribe, summarize, and search conversations. |
-| [Fathom](https://www.fathom.ai/) | **Use:** capturing live meetings; **Features:** record and transcribe calls and generate meeting summaries. |
+| [ZoomMate](https://www.zoom.com/en/products/ai-assistant/) | <strong>Use:</strong> meeting preparation and follow-up<br><strong>Features:</strong> work with meeting context to draft agendas, documents, and slides. |
+| [Otter.ai](https://otter.ai/) | <strong>Use:</strong> meeting notes and follow-up<br><strong>Features:</strong> transcription, summaries, and action items. |
+| [Fireflies.ai](https://fireflies.ai/) | <strong>Use:</strong> finding and reviewing meeting discussions<br><strong>Features:</strong> transcribe, summarize, and search conversations. |
+| [Fathom](https://www.fathom.ai/) | <strong>Use:</strong> capturing live meetings<br><strong>Features:</strong> record and transcribe calls and generate meeting summaries. |
 
 ## Workflow automation
 
 | Tool | What it helps with |
 | --- | --- |
-| [Zapier](https://zapier.com/ai) | **Use:** repetitive work across apps; **Features:** connect triggers to actions and use AI-assisted workflow building. |
-| [Make](https://www.make.com/ai-automation) | **Use:** cross-app processes; **Features:** build scenarios with AI steps and agent tools for multi-step tasks. |
-| [n8n](https://n8n.io/) | **Use:** business process automation; **Features:** connect app APIs, transform data, and build AI workflows. |
-| [Dify](https://github.com/langgenius/dify) | **Use:** building AI applications for work; **Features:** agents, workflows, and knowledge retrieval for web apps or APIs. |
+| [Zapier](https://zapier.com/ai) | <strong>Use:</strong> repetitive work across apps<br><strong>Features:</strong> connect triggers to actions and use AI-assisted workflow building. |
+| [Make](https://www.make.com/ai-automation) | <strong>Use:</strong> cross-app processes<br><strong>Features:</strong> build scenarios with AI steps and agent tools for multi-step tasks. |
+| [n8n](https://n8n.io/) | <strong>Use:</strong> business process automation<br><strong>Features:</strong> connect app APIs, transform data, and build AI workflows. |
+| [Dify](https://github.com/langgenius/dify) | <strong>Use:</strong> building AI applications for work<br><strong>Features:</strong> agents, workflows, and knowledge retrieval for web apps or APIs. |
 
 ## Editorial policy
 
