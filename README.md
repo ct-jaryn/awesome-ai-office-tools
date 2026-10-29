@@ -1,10 +1,10 @@
 # Awesome AI Office Tools · AI 办公工具导航
 
-开放的 AI 办公工具、AI 智能体、职场助手和效率应用导航：从 WorkBuddy 这样的办公工作台，到调研、会议、文档和自动化工具。欢迎社区贡献。
+面向中文用户的 AI 办公工具与智能体导航：收录百智办公、WorkBuddy、DeepSeek Harness 等办公工作台，以及文档、调研、会议和自动化工具，按工作场景查找。欢迎社区推荐与纠错。
 
 [English](README.en.md) · [隐私与选型](docs/privacy-and-selection.md#选择-ai-办公工具隐私与实用检查) · [推荐工具](https://github.com/ct-jaryn/awesome-ai-office-tools/issues/new/choose) · [贡献指南](CONTRIBUTING.md)
 
-寻找适合工作场景的工具，推荐新产品，或帮助更新现有信息。这里同时收录开源和商业产品；本导航开放共享，所列产品各自适用其许可和使用条款。
+寻找适合工作场景的工具，推荐新产品，或帮助更新现有信息。不懂代码也可以通过[推荐工具或纠错](https://github.com/ct-jaryn/awesome-ai-office-tools/issues/new/choose)参与。这里同时收录开源和商业产品；本导航开放共享，所列产品各自适用其许可和使用条款。
 
 ## 从工作任务开始
 
@@ -16,9 +16,18 @@
 
 选择工具前，可查看[隐私与选型指南](docs/privacy-and-selection.md#选择-ai-办公工具隐私与实用检查)，了解数据处理、权限和会议录制等考虑。分类仅反映主要用途，并非产品排名；许多工具同时覆盖多个类别。
 
+## 实用选型指南
+
+- [WorkBuddy、百智办公和 DeepSeek Harness 怎么选？](docs/guides/workbuddy-baizhi-dsh.md)
+- [AI 文档、表格与 PPT 工具怎么选？](docs/guides/office-documents-slides.md)
+- [AI 会议纪要：录音、摘要和隐私检查](docs/guides/meeting-notes.md)
+
+指南依据公开官方资料整理，不代表独立实测；欢迎提供公开来源帮助更新。
+
 ## 目录
 
 - [从工作任务开始](#从工作任务开始)
+- [实用选型指南](#实用选型指南)
 - [AI 工作台与智能体](#ai-工作台与智能体)
 - [写作、文档与演示](#写作文档与演示)
 - [调研与知识管理](#调研与知识管理)

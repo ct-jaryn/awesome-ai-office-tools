@@ -1,10 +1,10 @@
 # Awesome AI Office Tools
 
-An open directory of AI office tools, AI agents, workplace assistants, and productivity apps—from WorkBuddy-style workbenches to research, meetings, documents, and automation. Community contributions are welcome.
+An open directory of AI office tools and agents, with a Chinese-first edition: discover Baizhi Office, WorkBuddy, DeepSeek Harness, and tools for documents, research, meetings and automation by workplace use. Community suggestions and corrections are welcome.
 
 [简体中文](README.md) · [Privacy and selection](docs/privacy-and-selection.md) · [Suggest a tool](https://github.com/ct-jaryn/awesome-ai-office-tools/issues/new/choose) · [Contributing](CONTRIBUTING.md)
 
-Find a tool for your workflow, suggest a product, or help keep existing entries accurate. Both open-source and proprietary products are welcome; this directory is open, but listed products have their own licenses and terms.
+Find a tool for your workflow, suggest a product, or help keep existing entries accurate. No coding is needed to [suggest a tool or correction](https://github.com/ct-jaryn/awesome-ai-office-tools/issues/new/choose). Both open-source and proprietary products are welcome; this directory is open, but listed products have their own licenses and terms.
 
 ## Start with your task
 
@@ -16,9 +16,18 @@ Find a tool for your workflow, suggest a product, or help keep existing entries 
 
 For data handling, permissions and recording considerations, see the [privacy and selection guide](docs/privacy-and-selection.md). Categories reflect a primary use, not a product ranking; many tools span more than one category.
 
+## Practical selection guides
+
+- [Choosing WorkBuddy, Baizhi Office or DeepSeek Harness](docs/guides/workbuddy-baizhi-dsh.en.md)
+- [Choosing AI tools for documents, spreadsheets and presentations](docs/guides/office-documents-slides.en.md)
+- [AI meeting notes: recording, summaries and privacy](docs/guides/meeting-notes.en.md)
+
+These guides summarize public provider information, not independent hands-on tests; updates with public sources are welcome.
+
 ## Contents
 
 - [Start with your task](#start-with-your-task)
+- [Practical selection guides](#practical-selection-guides)
 - [AI workbenches and agents](#ai-workbenches-and-agents)
 - [Writing, documents and presentations](#writing-documents-and-presentations)
 - [Research and knowledge](#research-and-knowledge)
