@@ -34,8 +34,18 @@
 | --- | --- |
 | [百智办公 · MonkeyAI](https://work.baizhi.cloud/) · [源码](https://github.com/chaitin/MonkeyCode) | <strong>场景：</strong>团队办公与成果制作<br><strong>功能：</strong>处理办公、编程和设计任务，支持模型、技能、团队管理及私有化部署。 |
 | [腾讯 WorkBuddy](https://cloud.tencent.com/product/workbuddy) | <strong>场景：</strong>周报、会议纪要和数据汇总<br><strong>功能：</strong>规划多步骤任务、读写授权本地文件，并支持多智能体协作。 |
+| [DeepSeek Harness（DSH）](https://www.deepseek.com/harness/) · [源码](https://github.com/deepseek-ai/deepseek-harness) | <strong>场景：</strong>项目文件与多步骤办公任务<br><strong>功能：</strong>DeepSeek 官方开源工作台支持插件、文件操作和任务委派；目前为预览版，能力取决于配置与权限。 |
+| [DSH Desktop](https://www.dshdesktop.com/) · [源码](https://github.com/dataelement/dsh-desktop) | <strong>场景：</strong>办公文档与演示制作<br><strong>功能：</strong>第三方 DSH 桌面客户端支持工作区、插件和办公文件技能；使用需配置模型。 |
 | [Claude / Cowork](https://claude.com/product/cowork) | <strong>场景：</strong>调研、报告和待审核文件<br><strong>功能：</strong>跨所选文件及已连接应用处理多步骤任务，Cowork 能力正逐步并入 Claude。 |
 | [ChatGPT](https://chatgpt.com/) | <strong>场景：</strong>写作、调研和数据分析<br><strong>功能：</strong>回答问题、辅助撰写文本及分析上传文件。 |
+| [DeepSeek](https://chat.deepseek.com/) | <strong>场景：</strong>日常问答、写作与资料整理<br><strong>功能：</strong>提供智能对话、搜索及文件上传；具体能力因模式和服务状态而异。 |
+| [豆包 · Doubao](https://www.doubao.com/download/desktop) | <strong>场景：</strong>桌面文档、网页阅读和写作<br><strong>功能：</strong>可针对共享文档提问、总结网页、翻译和搜索；与豆包工作伙伴分开列示。 |
+| [Kimi](https://www.kimi.com/) | <strong>场景：</strong>文档阅读、调研和办公成果制作<br><strong>功能：</strong>提供网页搜索、深度研究及文档、表格和演示相关能力；与 Kimi Work 分开列示。 |
+| [腾讯元宝 · Tencent Yuanbao](https://yuanbao.tencent.com/c) | <strong>场景：</strong>日常问答、写作和信息搜索<br><strong>功能：</strong>提供 AI 对话、写作辅助和搜索。 |
+| [夸克 · Quark](https://www.quark.cn/) | <strong>场景：</strong>网页调研、文件阅读和资料整理<br><strong>功能：</strong>提供网页问答、文档处理和翻译，并有视频总结与录音纪要功能。 |
+| [Mistral Vibe（原 Le Chat）](https://chat.mistral.ai/) | <strong>场景：</strong>资料调研和多步骤办公<br><strong>功能：</strong>Work 模式可搜索和读取网页、连接工具处理任务；能力依方案和配置而异。 |
+| [Zoho Workplace Zia](https://www.zoho.com/workplace/ai.html) | <strong>场景：</strong>邮件、文档和日程处理<br><strong>功能：</strong>在 Zoho Workplace 中辅助摘要、撰写和整理内容；功能取决于方案及设置。 |
+| [Poe](https://poe.com/) | <strong>场景：</strong>写作、翻译和资料摘要<br><strong>功能：</strong>在同一界面使用不同提供方的模型及机器人；能力取决于所选机器人和方案。 |
 | [Microsoft Copilot (Microsoft 365)](https://www.microsoft.com/en-us/copilot) | <strong>场景：</strong>工作文档、邮件和会议<br><strong>功能：</strong>在 Microsoft 365 应用及工作内容中提供 AI 辅助。 |
 | [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/) | <strong>场景：</strong>在 Google Workspace 中撰写和整理工作内容<br><strong>功能：</strong>为 Gmail、Docs、Sheets 和 Slides 提供 AI 辅助。 |
 | [Manus](https://manus.im/) | <strong>场景：</strong>调研和多步骤成果制作<br><strong>功能：</strong>智能体可开展调研并创建文档、演示文稿和网站。 |
@@ -64,7 +74,7 @@
 | [有道龙虾 LobsterAI](https://lobsterai.youdao.com/) · [源码](https://github.com/netease-youdao/LobsterAI) | <strong>场景：</strong>调研及办公成果制作<br><strong>功能：</strong>可处理文件、文档和表格，并支持浏览器任务、定时任务与消息工具连接。 |
 | [QwenPaw](https://github.com/agentscope-ai/QwenPaw) | <strong>场景：</strong>周期性报告和文档处理<br><strong>功能：</strong>支持 PDF 与 Office 格式、定时任务和消息渠道；浏览器工具处于测试阶段。 |
 | [灵犀 AI 助手](https://ai.soho.komect.com/) | <strong>场景：</strong>工作区调研和日常跟进<br><strong>功能：</strong>支持网页搜索、处理已授权文件、技能与定时任务。 |
-| [WorkDSH](https://github.com/techflag/workdsh) | <strong>场景：</strong>管理项目任务及成果<br><strong>功能：</strong>结合资料库、技能、专家和连接器；目前处于 Alpha 阶段，编辑支持因格式而异。 |
+| [WorkDSH](https://github.com/techflag/workdsh) | <strong>场景：</strong>管理项目任务及成果<br><strong>功能：</strong>基于 DSH 插件生态的社区工作台，结合资料库、技能、专家和连接器；处于 Alpha 阶段，编辑支持因格式而异。 |
 | [GoodBuddy](https://mesalogo.github.io/goodbuddy/) | <strong>场景：</strong>项目知识检索和任务跟进<br><strong>功能：</strong>结合知识搜索、笔记、定时提醒和可配置智能体。 |
 | [Kowork](https://getkowork.com/) | <strong>场景：</strong>基于文件制作办公成果<br><strong>功能：</strong>桌面智能体在选定文件夹中工作，使用已配置模型创建文档、表格和演示文稿。 |
 | [Open Cowork](https://github.com/coasty-ai/open-cowork) | <strong>场景：</strong>电脑和浏览器中的多步骤工作<br><strong>功能：</strong>可配置智能体，可观察并操作桌面、云端或浏览器环境；本地启动需要配置。 |
@@ -105,6 +115,8 @@
 
 | 工具 | 用途 |
 | --- | --- |
+| [秘塔 AI 搜索 · Metaso](https://metaso.cn/) | <strong>场景：</strong>网络与学术资料调研<br><strong>功能：</strong>检索网页或用户上传的资料并基于内容生成回答，支持学术搜索。 |
+| [Dropbox Dash](https://dash.dropbox.com/) | <strong>场景：</strong>跨应用查找团队资料<br><strong>功能：</strong>搜索已连接应用，并对有权限访问的文件进行摘要和问答。 |
 | [Perplexity](https://www.perplexity.ai/) | <strong>场景：</strong>调研与多步骤工作<br><strong>功能：</strong>提供带来源链接的 AI 搜索，并在适用方案中通过 [Computer](https://www.perplexity.ai/products/computer) 执行调研和连接工具的工作流。 |
 | [Gemini Notebook（原 NotebookLM）](https://notebook.google/) | <strong>场景：</strong>整理与研究资料<br><strong>功能：</strong>基于选定来源回答和总结，并在可用时提供引用。 |
 | [Notion AI](https://www.notion.com/product/ai) | <strong>场景：</strong>检索工作知识<br><strong>功能：</strong>搜索 Notion 与已连接应用，功能可用性取决于方案。 |
@@ -116,6 +128,8 @@
 
 | 工具 | 用途 |
 | --- | --- |
+| [Slack AI](https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack) | <strong>场景：</strong>团队讨论与会议跟进<br><strong>功能：</strong>总结消息和会议内容并辅助搜索；可用性取决于方案、角色和管理员设置。 |
+| [Granola](https://www.granola.ai/) | <strong>场景：</strong>会议记录与会后回顾<br><strong>功能：</strong>转写会议、整理笔记，并支持基于会议内容提问。 |
 | [ZoomMate](https://www.zoom.com/en/products/ai-assistant/) | <strong>场景：</strong>会前准备和会后跟进<br><strong>功能：</strong>结合会议上下文起草议程、文档和演示文稿。 |
 | [Otter.ai](https://otter.ai/) | <strong>场景：</strong>会议记录及跟进<br><strong>功能：</strong>会议转录、摘要与待办事项。 |
 | [Fireflies.ai](https://fireflies.ai/) | <strong>场景：</strong>查找和复盘会议讨论<br><strong>功能：</strong>转录、总结和搜索对话。 |

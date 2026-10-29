@@ -2,6 +2,28 @@
 
 [Directory](../README.en.md) · [中文导航](../README.md)
 
+## DeepSeek and office tools expansion / DeepSeek 与办公工具扩充 · 2026-10-29
+
+Fourteen entries were added and WorkDSH was clarified using the public provider and project sources below. These are descriptions of published capabilities, not hands-on testing or a privacy or security assessment; features and availability may depend on plans, permissions and configuration. DSH Desktop and WorkDSH are independent community projects, distinct from the official DeepSeek Harness.
+
+本轮新增 14 项，并根据以下产品方和项目方公开资料澄清 WorkDSH。核验的是公开能力描述，不代表上手实测、隐私评估或安全审计；功能和可用性可能取决于方案、权限与配置。DSH Desktop 和 WorkDSH 是独立社区项目，与 DeepSeek 官方 Harness 不同。
+
+- DeepSeek: [official site](https://www.deepseek.com/) · [service status](https://status.deepseek.com/).
+- DeepSeek Harness: [official product page](https://www.deepseek.com/harness/) · [user guide](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/user/guide/index.md).
+- DSH Desktop: [project repository](https://github.com/dataelement/dsh-desktop).
+- WorkDSH: [project repository](https://github.com/techflag/workdsh).
+- Doubao: [official desktop page](https://www.doubao.com/download/desktop).
+- Kimi: [official overview](https://www.kimi.ai/zh-hans/help/getting-started/overview).
+- Tencent Yuanbao: [official product](https://yuanbao.tencent.com/c).
+- Quark: [official help](https://www.quark.cn/documents/help/ai-assistant) · [getting started](https://www.quark.cn/documents/help/get-started).
+- Mistral Vibe: [rename and modes](https://help.mistral.ai/en/articles/682992-le-chat-is-now-vibe) · [web search](https://docs.mistral.ai/vibe/work/web-search-open-url).
+- Zoho Workplace Zia: [official product page](https://www.zoho.com/workplace/ai.html).
+- Poe: [official FAQ](https://help.poe.com/hc/en-us/articles/19944206309524-Poe-FAQs).
+- Metaso: [official product](https://metaso.cn/) · [service description](https://metaso.cn/meta-user-policy).
+- Dropbox Dash: [official help](https://help.dropbox.com/view-edit/dropbox-dash-search-and-explore).
+- Slack AI: [official guide](https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack).
+- Granola: [official product page](https://www.granola.ai/).
+
 ## Initial review / 首轮核验 · 2026-10-29
 
 The 29 product descriptions were checked against public official product pages, documentation or repositories. This verifies that the stated use is described by the provider; it is **not** a hands-on evaluation, security assessment or endorsement. Products and policies change. Entries link to their official product page or source; the sources below give additional context where the name or description needed clarification.
