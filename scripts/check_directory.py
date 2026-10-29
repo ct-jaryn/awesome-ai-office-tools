@@ -91,6 +91,9 @@ def product_sections(path, headings, errors):
             errors.append(f"{path.name}: category {title!r} needs a header, separator, and entries")
             result.append([])
             continue
+        for previous, current_row in zip(rows, rows[1:]):
+            if current_row[0] != previous[0] + 1:
+                errors.append(f"{path.name}:{current_row[0]}: product table must be continuous without blank or non-table lines")
         header = split_row(rows[0][1])
         separator = split_row(rows[1][1])
         if not header or len(header) != 2 or not all(header):

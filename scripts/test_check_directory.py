@@ -63,6 +63,21 @@ class DirectoryChecks(unittest.TestCase):
         self.zh = self.zh.replace("| Description. |", "|  |", 1)
         self.assertIn("product description is empty", self.errors())
 
+    def test_blank_or_text_between_product_rows_breaks_table(self):
+        workbuddy = f"| [WorkBuddy]({check.WORKBUDDY_URL}) | Assistant. |"
+        for interruption in ("\n", "\nNot part of the table.\n"):
+            with self.subTest(interruption=repr(interruption)):
+                original = self.en
+                self.en = self.en.replace(workbuddy, interruption + workbuddy, 1)
+                self.assertIn("product table must be continuous", self.errors())
+                self.en = original
+
+    def test_blank_lines_before_and_after_table_are_allowed(self):
+        heading = f"## {check.CATEGORY_HEADINGS[0][0]}\n\n| Tool"
+        self.en = self.en.replace(heading, heading.replace("\n\n|", "\n\n\n|"), 1)
+        self.en = self.en.replace("| Assistant. |\n\n##", "| Assistant. |\n\n\n##", 1)
+        self.assertEqual(self.errors(), "")
+
     def test_non_https_product_url(self):
         self.en = self.en.replace("https://example.com/tool-1", "http://example.com/tool-1")
         self.assertIn("must use HTTPS", self.errors())

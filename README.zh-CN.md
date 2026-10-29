@@ -43,6 +43,21 @@
 | [OpenClaw](https://github.com/openclaw/openclaw) | 自托管助手网关，可将智能体连接到消息渠道和工具。 |
 | [豆包工作伙伴 · Doubao Work Companion](https://aily.feishu.cn/hc/1u7kleqg_3d5z9ttt) | 可结合飞书消息、文档、会议和任务开展工作的 AI 同事。 |
 | [钉钉 AI 助理 · DingTalk AI Assistant](https://page.dingtalk.com/wow/dingtalk/default/dingtalk/AIzhuli) | 钉钉中辅助处理消息、日程、文档和会议的助手。 |
+| [Kimi Work](https://www.kimi.com/products/kimi-work) | 桌面智能体，可使用本地文件、浏览器自动化和定时任务辅助调研与办公。 |
+| [阿里悟空 · Alibaba Wukong](https://wukong.dingtalk.com/) | 面向企业的 AI 工作平台，可操作电脑并与钉钉连接任务。 |
+| [Skywork Desktop](https://skywork.ai/desktop/en/index.html) | 桌面智能体，可基于选定文件完成调研和办公成果，也覆盖编程与设计工作流。 |
+| [Loomy](https://loomy.xunfei.cn/) | 桌面工作助手，支持文件处理、数据分析、调研及连接办公工具。 |
+| [果办 OfficeAce](https://www.huaweicloud.com/product/officeace.html) | 办公 AI 助手，可用于调研、汇报材料、文档和数据相关任务。 |
+| [AutoClaw](https://autoclaw.zhipuai.cn/) | 桌面智能体，可跨文件、浏览器和已连接工具处理多步骤任务。 |
+| [Genspark Super App](https://superapp.genspark.ai/) | 桌面 AI 工作空间，结合团队聊天、邮件以及文档、表格和演示工具。 |
+| [Lindy](https://www.lindy.ai/) | 连接办公工具的 AI 助手，可用于会议、收件箱、日历和定时任务。 |
+| [Hermes Agent](https://hermes-agent.nousresearch.com/docs/user-guide/desktop) | 可配置的智能体，提供桌面界面、技能及消息平台连接，辅助处理周期性工作。 |
+| [Interpreter Workstation](https://github.com/openinterpreter/interpreter-workstation) | 电脑智能体工作台，可连接本地或远程电脑并使用配置的模型。 |
+| [PawWork](https://pawwork.ai/) · [源码](https://github.com/Astro-Han/pawwork) | 早期桌面智能体，可处理办公文件、网页调研及定时任务。 |
+| [Open Duet](https://github.com/Anil-matcha/open-duet) | 实验性工作台，可将调研、写作和定时任务委派给可配置的智能体；需要自备引擎。 |
+| [Comma](https://comma.surf/) | AI 助手，可在已连接应用和文件中处理任务与周期性工作，也提供自托管选项。 |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio/) | 多模型桌面工作台，提供智能体、知识库及 PDF 和 Office 文档处理。 |
+| [AStudio](https://agent.xfyun.cn/) | 用于调研、文档和表格的工作台，可围绕本地项目文件夹组织任务。 |
 
 ## 写作、文档与演示
 
@@ -57,7 +72,7 @@
 
 | 工具 | 用途 |
 | --- | --- |
-| [Perplexity](https://www.perplexity.ai/) | AI 搜索和基于来源的回答。 |
+| [Perplexity](https://www.perplexity.ai/) | AI 搜索和基于来源的回答；[Computer](https://www.perplexity.ai/products/computer) 在适用方案中提供多步骤调研和连接工具的工作流。 |
 | [Gemini Notebook（原 NotebookLM）](https://notebook.google/) | 探索和综合上传的资料，并可提供引用以辅助核对回答。 |
 | [Notion AI](https://www.notion.com/product/ai) | 搜索和处理 Notion 及已连接工具中的知识。 |
 | [Glean](https://www.glean.com/) | 搜索和处理已连接的工作应用中的知识。 |

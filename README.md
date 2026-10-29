@@ -43,6 +43,21 @@ For data handling, permissions and recording considerations, see the [privacy an
 | [OpenClaw](https://github.com/openclaw/openclaw) | A self-hosted assistant gateway connecting agents to messaging channels and tools. |
 | [Doubao Work Companion (豆包工作伙伴)](https://aily.feishu.cn/hc/1u7kleqg_3d5z9ttt) | An AI coworker that works with Feishu messages, documents, meetings, and tasks. |
 | [DingTalk AI Assistant (钉钉 AI 助理)](https://page.dingtalk.com/wow/dingtalk/default/dingtalk/AIzhuli) | An assistant for messages, schedules, documents, and meetings in DingTalk. |
+| [Kimi Work](https://www.kimi.com/products/kimi-work) | A desktop agent for research and office tasks using local files, browser automation, and scheduled work. |
+| [Alibaba Wukong](https://wukong.dingtalk.com/) | An enterprise AI work platform that can operate a computer and connect tasks with DingTalk. |
+| [Skywork Desktop](https://skywork.ai/desktop/en/index.html) | A desktop agent for research and office deliverables using selected files, alongside coding and design workflows. |
+| [Loomy](https://loomy.xunfei.cn/) | A desktop work assistant for file processing, data analysis, research, and connected workplace tools. |
+| [OfficeAce](https://www.huaweicloud.com/product/officeace.html) | A workplace AI assistant for research, reports, documents, and data-related tasks. |
+| [AutoClaw](https://autoclaw.zhipuai.cn/) | A desktop agent for multi-step work across files, browsers, and connected tools. |
+| [Genspark Super App](https://superapp.genspark.ai/) | A desktop AI workspace combining team chat and email with document, spreadsheet, and presentation tools. |
+| [Lindy](https://www.lindy.ai/) | An AI assistant that connects workplace tools for meetings, inbox and calendar tasks, and scheduled routines. |
+| [Hermes Agent](https://hermes-agent.nousresearch.com/docs/user-guide/desktop) | A configurable agent with a desktop interface, skills, and messaging integrations for recurring work. |
+| [Interpreter Workstation](https://github.com/openinterpreter/interpreter-workstation) | A computer agent workspace that connects to local or remote computers and supports configured models. |
+| [PawWork](https://pawwork.ai/) · [Source](https://github.com/Astro-Han/pawwork) | An early-stage desktop agent for office files, web research, and scheduled tasks. |
+| [Open Duet](https://github.com/Anil-matcha/open-duet) | An experimental workspace for delegating research, writing, and scheduled routines to configurable agents; requires an engine. |
+| [Comma](https://comma.surf/) | An AI assistant for tasks and routines across connected apps and files, with a self-hosting option. |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio/) | A multi-model desktop workspace with agents, knowledge bases, and PDF and Office document processing. |
+| [AStudio](https://agent.xfyun.cn/) | A workbench for research, documents, and spreadsheets, with tasks organized around local project folders. |
 
 ## Writing, documents and presentations
 
@@ -57,7 +72,7 @@ For data handling, permissions and recording considerations, see the [privacy an
 
 | Tool | What it helps with |
 | --- | --- |
-| [Perplexity](https://www.perplexity.ai/) | AI search and answers grounded in sources. |
+| [Perplexity](https://www.perplexity.ai/) | AI search with source-based answers; [Computer](https://www.perplexity.ai/products/computer) adds multi-step research and connected workflows on eligible plans. |
 | [Gemini Notebook (formerly NotebookLM)](https://notebook.google/) | Explore and synthesize uploaded sources, and can provide citations to help verify answers. |
 | [Notion AI](https://www.notion.com/product/ai) | Search and work with knowledge in Notion and connected tools. |
 | [Glean](https://www.glean.com/) | Search and work with knowledge across connected workplace applications. |
