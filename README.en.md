@@ -141,6 +141,7 @@ This project is a product directory, not AI agent software. It lists open-source
 | [Glean](https://www.glean.com/) | <strong>Use:</strong> finding and using company knowledge<br><strong>Features:</strong> search connected workplace apps and turn information into work products. |
 | [Elicit](https://elicit.com/) | <strong>Use:</strong> academic literature reviews<br><strong>Features:</strong> find and screen papers, extract data, and generate research reports. |
 | [Consensus](https://consensus.app/) | <strong>Use:</strong> reviewing scientific evidence<br><strong>Features:</strong> search research papers and generate summaries with links to sources. |
+| [DisconfirmAI](https://disconfirmai.com/en) | <strong>Use:</strong> investment research before forming conviction<br><strong>Features:</strong> daily reading of public sources, research on filings and data, radar alerts for set conditions, and a personal investment framework. |
 
 ## Meetings and collaboration
 
