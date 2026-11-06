@@ -141,6 +141,7 @@
 | [Glean](https://www.glean.com/) | <strong>场景：</strong>查找和使用企业知识<br><strong>功能：</strong>搜索已连接的办公应用，并基于信息制作工作成果。 |
 | [Elicit](https://elicit.com/) | <strong>场景：</strong>学术文献综述<br><strong>功能：</strong>查找和筛选论文、提取数据并生成研究报告。 |
 | [Consensus](https://consensus.app/) | <strong>场景：</strong>查阅科学证据<br><strong>功能：</strong>搜索研究论文，生成带来源链接的摘要。 |
+| [DisconfirmAI](https://disconfirmai.com/en) | <strong>场景：</strong>形成投资确信前的证伪与研究<br><strong>功能：</strong>公开信源每日阅读、财报与数据研究、按设定条件扫描变化的雷达，以及个人投资框架。 |
 
 ## 会议与协作
 
